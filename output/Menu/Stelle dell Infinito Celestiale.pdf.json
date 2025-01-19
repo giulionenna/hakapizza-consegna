@@ -1,0 +1,319 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Stelle dell'Infinito Celestiale",
+      "galaxy": "Via Lattea",
+      "planet": "Namecc",
+      "chef": {
+        "name": "Jessica Cosmica",
+        "alias": "CosmoChef",
+        "background": "Famosa per la sua capacità di percepire le emozioni culinarie",
+        "specialSkills": {
+          "Psionica": "I",
+          "Temporale": "I",
+          "Gravitazionale": "III",
+          "Antimateria": "I",
+          "Quantistica": "IX",
+          "Luce": "II",
+          "LivelloTecnologico": "VI",
+          "Magnetica": "I",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Creazione di piatti interdimensionali celebri nelle galassie vicine",
+        "education": "Accademia Interstellare di Cucina",
+        "experience": ["Esplorazioni culinarie attraverso varie dimensioni e pianeti"]
+      },
+      "location": {
+        "environment": "Mistico, sulla superficie di Namecc",
+        "dimension": "4D"
+      },
+      "cuisine": {
+        "type": "Fusion intergalattico",
+        "inspirations": ["Tecnologia avanzata", "Arte culinaria antica", "Elementi cosmici"]
+      },
+      "established": "3025",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "La Mucca Che Stordisce l'Universo",
+          "signatureDish": true,
+          "description": "Un viaggio sensoriale che sfida le leggi dell'universo e del gusto.",
+          "ingredients": [
+            {"name": "Polvere di Stelle", "origin": "Via Lattea"},
+            {"name": "Lattuga Namecciana", "origin": "Namecc"},
+            {"name": "Colonia di Mycoflora", "origin": "Dimensione Fungina"},
+            {"name": "Carne di MuccaGnocchi del Crepuscolo", "origin": "Galassia Andromeda"},
+            {"name": "Lacrime di Andromeda", "origin": "Nebulosa di Andromeda"},
+            {"name": "Petali di Eco", "origin": "Foresta Echo"}
+          ],
+          "techniques": [
+            {"name": "Cottura Olografica Quantum Fluttuante", "effect": "Creazione di dimensioni culinarie"},
+            {"name": "Decostruzione Interdimensionale Lovecraftiana", "effect": "Trasforma la struttura molecolare"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare Spaziale",
+              "notes": "Aromi che ricordano l'infinità del cosmo"
+            }
+          ],
+          "price": "50 crediti galattici",
+          "notes": "Consigliato per gli avventurieri del gusto"
+        },
+        {
+          "dish_name": "Piccola Odissea Cosmica",
+          "signatureDish": false,
+          "description": "Un'armonia perfetta tra gli elementi che attraversano galassie.",
+          "ingredients": [
+            {"name": "Polvere di Pulsar", "origin": "Pulsar Centrale"},
+            {"name": "Carne di Balena spaziale", "origin": "Oceani di Sirio"},
+            {"name": "Uova di Fenice", "origin": "Foresta Bifronte"},
+            {"name": "Teste di Idra", "origin": "Palude di Lerna"},
+            {"name": "Spaghi del Sole", "origin": "Sistemi Solari"},
+            {"name": "Essenza di Vuoto", "origin": "Buchi Neri"}
+          ],
+          "techniques": [
+            {"name": "Affettamento a Pulsazioni Quantistiche", "effect": "Divisione precisa a livello subatomico"},
+            {"name": "Bollitura Entropica Sincronizzata", "effect": "Regolazione termica su scala temporale"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Infuso di Stelle",
+              "notes": "Esalta l'equilibrio del piatto"
+            }
+          ],
+          "price": "80 crediti galattici",
+          "notes": "Ideale per esploratori culinari esperti"
+        },
+        {
+          "dish_name": "L'Unicorno piange il Kraken",
+          "signatureDish": false,
+          "description": "Una composizione che sfida i confini del gusto e dell’immaginazione.",
+          "ingredients": [
+            {"name": "Foglie di Nebulosa", "origin": "Nebulosa Oscura"},
+            {"name": "Lattuga Namecciana", "origin": "Namecc"},
+            {"name": "Carne di Xenodonte", "origin": "Dimensione Exo"},
+            {"name": "Fibra di Sintetex", "origin": "Laboratori di Fenrir"},
+            {"name": "Carne di Kraken", "origin": "Abissi di Poseidone"},
+            {"name": "Granuli di Nebbia Arcobaleno", "origin": "Arcobaleno Vivo"},
+            {"name": "Lacrime di Unicorno", "origin": "Radure della Purezza"},
+            {"name": "Spezie Melange", "origin": "Dune di Arrakis"}
+          ],
+          "techniques": [
+            {"name": "Cottura Olografica Quantum Fluttuante", "effect": "Creazione di dimensioni culinarie"},
+            {"name": "Saltare in Padella Singolarità Inversa", "effect": "Amalgazione di sapori in una bolla temporale"},
+            {"name": "Cottura con Microonde Entropiche Sincronizzate", "effect": "Risparmio energetico interdimensionale"},
+            {"name": "Affettamento a Pulsazioni Quantistiche", "effect": "Divisione precisa a livello subatomico"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Lacrima di Fenice",
+              "notes": "Aromatizza la complessità del piatto"
+            }
+          ],
+          "price": "70 crediti galattici",
+          "notes": "Un viaggio attraverso i confini dell'universo"
+        },
+        {
+          "dish_name": "L'Eternità al Crepuscolo",
+          "signatureDish": false,
+          "description": "Ordinate a vostro rischio e pericolo.",
+          "ingredients": [
+            {"name": "Vero Ghiaccio", "origin": "Regni di Ghiaccio"},
+            {"name": "Foglie di Nebulosa", "origin": "Nebulosa Luminosa"},
+            {"name": "Carne di Kraken", "origin": "Abissi di Poseidone"},
+            {"name": "Fibra di Sintetex", "origin": "Laboratori di Fenrir"},
+            {"name": "Gnocchi del Crepuscolo", "origin": "Galassia Andromeda"},
+            {"name": "Biscotti della Galassia", "origin": "Verde Milkyway"},
+            {"name": "Funghi dell’Etere", "origin": "Boschi Eterici"}
+          ],
+          "techniques": [
+            {"name": "Cottura Sottovuoto Pulsar Magnetica", "effect": "Cottura uniforme sfruttando campi magnetici"},
+            {"name": "Affumicatura a Stratificazione Quantica", "effect": "Stratificazione dei sapori a livello quantico"},
+            {"name": "Marinatura tramite Reazioni d'Antimateria Diluite", "effect": "Fermentazione antimaterica"},
+            {"name": "Impasto Gravitazionale Vorticoso", "effect": "Aerazione della consistenza interamente gravitazionale"},
+            {"name": "Ebollizione Magneto-Cinetica Pulsante", "effect": "Cottura attivata da frequenze magnetiche"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Polvere di Galassia",
+              "notes": "Intensifica i sapori terrestri"
+            }
+          ],
+          "price": "60 crediti galattici",
+          "notes": "Misterioso e sorprendente"
+        },
+        {
+          "dish_name": "La Balena Sputafuoco",
+          "signatureDish": false,
+          "description": "Un piatto sublime nei sapori che gioco col campo visivo dell'ospite.",
+          "ingredients": [
+            {"name": "Frammenti di Supernova", "origin": "Supernova Centrale"},
+            {"name": "Carne di Balena spaziale", "origin": "Mare Cosmico"},
+            {"name": "Pane degli Abissi", "origin": "Abyssalian Deep"},
+            {"name": "Funghi dell’Etere", "origin": "Boschi Eterici"},
+            {"name": "Nduja Fritta Tanto", "origin": "Calabria Interplanetaria"}
+          ],
+          "techniques": [
+            {"name": "Cottura Sottovuoto Antimateria", "effect": "Imprigionamento del sapore attraverso antimateria"},
+            {"name": "Impasto Gravitazionale Vorticoso", "effect": "Aerazione della consistenza interamente gravitazionale"},
+            {"name": "Decostruzione Interdimensionale Lovecraftiana", "effect": "Trasforma la struttura molecolare"},
+            {"name": "Cottura Sottovuoto Multirealità Collassante", "effect": "Fusione saporita attraverso piani dimensionali"},
+            {"name": "Sferificazione con Campi Magnetici Entropici", "effect": "Creazione di sfere saporite"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino di Singolarità",
+              "notes": "Aperto a nuove dimensioni sensoriali"
+            }
+          ],
+          "price": "90 crediti galattici",
+          "notes": "Delizioso e trasportante"
+        },
+        {
+          "dish_name": "Sassi e Sassolini",
+          "signatureDish": false,
+          "description": "Una creazione sensoriale che sfida la vostra percezione del gusto e della texture.",
+          "ingredients": [
+            {"name": "Foglie di Mandragora", "origin": "Boschi Magici"},
+            {"name": "Radici di Singolarità", "origin": "Dimensione Singolare"},
+            {"name": "Biscotti della Galassia", "origin": "Verde Milkyway"},
+            {"name": "Farina di Nettuno", "origin": "Mondi Azzurri"},
+            {"name": "Funghi dell’Etere", "origin": "Boschi Eterici"},
+            {"name": "Spezie Melange", "origin": "Dune di Arrakis"}
+          ],
+          "techniques": [
+            {"name": "Cottura Idrodinamica Autoregolante", "effect": "Regolazione autonoma delle variabili fisiche"},
+            {"name": "Sferificazione con Campi Magnetici Entropici", "effect": "Creazione di sfere saporite"},
+            {"name": "Impasto Gravitazionale Vorticoso", "effect": "Aerazione della consistenza interamente gravitazionale"},
+            {"name": "Affumicatura a Stratificazione Quantica", "effect": "Stratificazione dei sapori a livello quantico"},
+            {"name": "Grigliatura Plasma Sintetico Risonante", "effect": "Cottura precisa con plasma sintetico"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Tè del Buco Nero",
+              "notes": "Stratificazione delle essenze spaziali"
+            }
+          ],
+          "price": "75 crediti galattici",
+          "notes": "Un viaggio cosmico tra gusto e texture"
+        },
+        {
+          "dish_name": "Galassia Ardente",
+          "signatureDish": false,
+          "description": "Unisce l'antico e l'ultramoderno in una tavola che sfuma tra realtà e immaginazione.",
+          "ingredients": [
+            {"name": "Frammenti di Supernova", "origin": "Supernova Centrale"},
+            {"name": "Radici di Singolarità", "origin": "Dimensione Singolare"},
+            {"name": "Foglie di Mandragora", "origin": "Boschi Magici"},
+            {"name": "Carne di Kraken", "origin": "Abissi di Poseidone"},
+            {"name": "Spaghi del Sole", "origin": "Sistemi Solari"},
+            {"name": "Amido di Stellarion", "origin": "Galassie Stellari"},
+            {"name": "Pane di Luce", "origin": "Forni Solari"},
+            {"name": "Muffa Lunare", "origin": "Superficie Lunare"},
+            {"name": "Spezie Melange", "origin": "Dune di Arrakis"}
+          ],
+          "techniques": [
+            {"name": "Congelamento Bio-Luminiscente Sincronico", "effect": "Preservazione aromatica attraverso luce bio-luminiscente"},
+            {"name": "Decostruzione Magnetica Risonante", "effect": "Distillazione elementale sfruttando onde magnetiche"},
+            {"name": "Affettamento a Pulsazioni Quantistiche", "effect": "Divisione precisa a livello subatomico"},
+            {"name": "Grigliatura Plasma Sintetico Risonante", "effect": "Cottura precisa con plasma sintetico"},
+            {"name": "Decostruzione Interdimensionale Lovecraftiana", "effect": "Trasforma la struttura molecolare"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Filtro Solare",
+              "notes": "Esalta la natura del gusto antica e ultramoderna"
+            }
+          ],
+          "price": "85 crediti galattici",
+          "notes": "Esperienza che risveglia emozioni profonde"
+        },
+        {
+          "dish_name": "Galassia di Cosmo-Delizie",
+          "signatureDish": true,
+          "description": "Un capolavoro dove la magia e la scienza si incontrano.",
+          "ingredients": [
+            {"name": "Vero Ghiaccio", "origin": "Regni di Ghiaccio"},
+            {"name": "Lattuga Namecciana", "origin": "Namecc"},
+            {"name": "Carne di Drago", "origin": "Montagne Incantate"},
+            {"name": "Amido di Stellarion", "origin": "Galassie Stellari"},
+            {"name": "Lacrime di Unicorno", "origin": "Radure della Purezza"},
+            {"name": "Essenza di Speziaria", "origin": "Foresta delle Spezie"}
+          ],
+          "techniques": [
+            {"name": "Decostruzione Magnetica Risonante", "effect": "Distillazione elementale sfruttando onde magnetiche"},
+            {"name": "Cottura Sottovuoto Pulsar Magnetica", "effect": "Cottura uniforme sfruttando campi magnetici"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino delle Stelle",
+              "notes": "Trasporta i sapori alla perfezione celestiale"
+            }
+          ],
+          "price": "100 crediti galattici",
+          "notes": "Miglior piatto del ristorante"
+        },
+        {
+          "dish_name": "Nebulosa di Confini Sfondati",
+          "signatureDish": false,
+          "description": "Una celebrazione del possibile e dell'ignoto.",
+          "ingredients": [
+            {"name": "Shard di Materia Oscura", "origin": "Abissi di Oscurità"},
+            {"name": "Radici di Singolarità", "origin": "Dimensione Singolare"},
+            {"name": "Alghe Bioluminescenti", "origin": "Oceani Luminosi"},
+            {"name": "Foglie di Mandragora", "origin": "Boschi Magici"},
+            {"name": "Amido di Stellarion", "origin": "Galassie Stellari"},
+            {"name": "Farina di Nettuno", "origin": "Mondi Azzurri"},
+            {"name": "Plasma Vitale", "origin": "Sorgenti Vitali"},
+            {"name": "Petali di Eco", "origin": "Foresta Echo"}
+          ],
+          "techniques": [
+            {"name": "Cottura Olografica Quantum Fluttuante", "effect": "Creazione di dimensioni culinarie"},
+            {"name": "Congelamento Bio-Luminiscente Sincronico", "effect": "Preservazione aromatica attraverso luce bio-luminiscente"},
+            {"name": "Saltare in Padella Singolarità Inversa", "effect": "Amalgazione di sapori in una bolla temporale"},
+            {"name": "Affumicatura a Stratificazione Quantica", "effect": "Stratificazione dei sapori a livello quantico"},
+            {"name": "Surgelamento Antimaterico a Risonanza Inversa", "effect": "Gelo profondo tramite flussi antimaterici"}
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir di Luminari",
+              "notes": "Arricchisce l'esperienza sensoriale multidimensionale"
+            }
+          ],
+          "price": "95 crediti galattici",
+          "notes": "Testimonianza del microcosmo culinario"
+        }
+      ],
+      "concept": "Cucina fusion che unisce tecnologia e magia in un'armonia cosmica",
+      "additionalFeatures": [
+        {
+          "feature": "Proiezioni Interdimensionali",
+          "description": "Scene visive che accompagnano ogni piatto, proiettate nelle pareti del ristorante"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Premio Gastronomico Galattico",
+          "year": "3027"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Accademia degli Chef Interstellari",
+          "symbol": "Fornello Celeste"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "48 ore",
+        "allowedPayments": ["Crediti Galattici", "Barre d'Oro", "Gemme Interdimensionali"],
+        "specialConditions": "Esame psionico obbligatorio per confermare le emozioni culinarie"
+      },
+      "ambiance": {
+        "themes": ["Futuristico", "Magico"],
+        "uniqueAspects": ["Tavoli antigravitazionali", "Luce che cambia colore secondo le emozioni rilevate"]
+      }
+    }
+  ]
+}
+```

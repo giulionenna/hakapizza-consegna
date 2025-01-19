@@ -1,0 +1,299 @@
+```json
+{
+  "ristorante": {
+    "documento_numero": "2",
+    "chef": {
+      "nome": "Sirius Cosmo",
+      "titolo": "Chef Stellare"
+    },
+    "ambientazione": "Ristorazione galattica tra Alpha Centauri e la Nebulosa del Granchio",
+    "capitoli": [
+      {
+        "titolo": "Abilità e Licenze Richieste",
+        "contenuto": {
+          "abilità": [
+            {
+              "nome": "Psionica",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": "Posseduta da tutti se non diversamente specificato. Tipica degli esseri senzienti."
+                },
+                {
+                  "numero": 1,
+                  "descrizione": "Lettura pensiero, telecinesi e teletrasporto di oggetti di massa inferiore a 5 kg, precognizione e visione del passato fino a 5 minuti."
+                },
+                {
+                  "numero": 2,
+                  "descrizione": "Manipolazione della probabilità, telecinesi e teletrasporto di oggetti di massa inferiore a 20 kg, manipolazione delle forze fondamentali dell'universo."
+                },
+                {
+                  "numero": 3,
+                  "descrizione": "Capacità di donare la coscienza e l'intelletto ad oggetti, manipolazione della realtà circoscritta a stanze, teletrasporto senza errore in qualsiasi dimensione temporale."
+                },
+                {
+                  "numero": 4,
+                  "descrizione": "Proiezione astrale, riscrittura di realtà circoscritta a piccole nazioni o asteroidi."
+                },
+                {
+                  "numero": 5,
+                  "descrizione": "Riscrittura di realtà di intere linee temporali o galassie. Questo livello è equivalente al Grado di influenza di livello tecnologico III (LTK III)."
+                }
+              ]
+            },
+            {
+              "nome": "Temporale",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": "Effetti temporali relativi al presente come dilatazione o accelerazione del tempo."
+                },
+                {
+                  "numero": 2,
+                  "descrizione": "Effetti temporali che riguardano linee temporali future."
+                },
+                {
+                  "numero": 3,
+                  "descrizione": "Effetti temporali che riguardano linee temporali passate."
+                }
+              ]
+            },
+            {
+              "nome": "Gravitazionale",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": "5 < G ≤ 10, posseduta da tutti se non diversamente specificato."
+                },
+                {
+                  "numero": 1,
+                  "descrizione": "0 < G ≤ 100."
+                },
+                {
+                  "numero": 2,
+                  "descrizione": "0 < G ≤ 10^6."
+                },
+                {
+                  "numero": 3,
+                  "descrizione": "G > 10^6."
+                }
+              ]
+            },
+            {
+              "nome": "Antimateria",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": "Particelle, posseduta da tutti se non diversamente specificato."
+                },
+                {
+                  "numero": 1,
+                  "descrizione": "Antiparticelle."
+                }
+              ]
+            },
+            {
+              "nome": "Magnetica",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": "Polo nord e sud, posseduta da tutti se non diversamente specificato."
+                },
+                {
+                  "numero": 1,
+                  "descrizione": "Mono-polo."
+                }
+              ]
+            },
+            {
+              "nome": "Quantistica",
+              "livelli": [
+                {
+                  "numero": "n",
+                  "descrizione": "Numero di stati in superposizione dove n è il numero di stati."
+                }
+              ]
+            },
+            {
+              "nome": "Luce",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": "Solo colori primari (RGB)."
+                },
+                {
+                  "numero": 2,
+                  "descrizione": "Tutto lo spettro visibile umano."
+                },
+                {
+                  "numero": 3,
+                  "descrizione": "Tutte le frequenze."
+                }
+              ]
+            },
+            {
+              "nome": "Livello di Sviluppo Tecnologico",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": "Planetario."
+                },
+                {
+                  "numero": 2,
+                  "descrizione": "Sistema Stellare."
+                },
+                {
+                  "numero": 3,
+                  "descrizione": "Galassia."
+                },
+                {
+                  "numero": 4,
+                  "descrizione": "Superamasso di Galassie."
+                },
+                {
+                  "numero": 5,
+                  "descrizione": "Intero Universo."
+                },
+                {
+                  "numero": 6,
+                  "descrizione": "Universi multipli."
+                },
+                {
+                  "numero": "6+",
+                  "descrizione": "Tutte le fonti energia."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "titolo": "Gli Ordini",
+        "contenuto": [
+          {
+            "nome": "Ordine della Galassia di Andromeda",
+            "descrizione": "Cucinare per gli abitanti di Andromeda richiede piatti privi di lattosio, con sapori complessi senza latte, burro o panna."
+          },
+          {
+            "nome": "Ordine dei Naturalisti",
+            "descrizione": "Celebra l'essenza primordiale degli ingredienti, promuovendo il 'Principio di Non Alterazione' per esaltare la semplicità con maestria."
+          },
+          {
+            "nome": "Ordine degli Armonisti",
+            "descrizione": "Maestri del flusso emozionale gastronomico, trasformano il cibo in sinfonie che risuonano con l'anima, adattandosi alle frequenze emotive del momento."
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche di Preparazione",
+        "contenuto": [
+          {
+            "nome": "Marinatura",
+            "tecniche": [
+              {
+                "nome": "Marinatura a Infusione Gravitazionale",
+                "descrizione": "Il cibo è collocato in una camera a gravità alternata, che intensifica l'assorbimento della marinata nei tessuti alimentari.",
+                "vantaggi": "Il sapore penetra in profondità per una marinatura uniforme e intensa.",
+                "svantaggi": "Necessita di un 'Grav-Infuser' di alta precisione, con un dispendio energetico significativo."
+              },
+              {
+                "nome": "Marinatura Temporale Sincronizzata",
+                "descrizione": "Sfrutta una bolla temporale sincronizzata per accelerare il processo di marinatura, comprimendo ore in minuti.",
+                "vantaggi": "Marinatura completa in un tempo minimo, senza compromessi sulla qualità.",
+                "svantaggi": "Rischi di interferenze temporali minori; vietata per uso domestico senza supervisione."
+              }
+            ]
+          },
+          {
+            "nome": "Affumicatura",
+            "tecniche": [
+              {
+                "nome": "Affumicatura a Stratificazione Quantica",
+                "descrizione": "Il cibo viene posizionato in una camera che alterna strati quantici, permettendo a particelle di fumo quantisticamente compresse di penetrare attraverso i livelli molecolari dell'alimento.",
+                "vantaggi": "Penetrazione uniforme del sapore affumicato, con un aroma che sembra provenire dall'interno dell'alimento stesso.",
+                "svantaggi": "Può causare una leggera variazione del sapore se non calibrato con precisione, rendendo l'affumicatura imprevedibile senza un operatore esperto."
+              }
+            ]
+          },
+          {
+            "nome": "Fermentazione",
+            "tecniche": [
+              {
+                "nome": "Fermentazione Quantica a Strati Multiversali",
+                "descrizione": "Il cibo viene posizionato in un dispositivo di fermentazione che sfrutta strati quantici provenienti da diversi universi paralleli.",
+                "vantaggi": "Fermentazione rapida ed efficiente, con la possibilità di ottenere sapori unici.",
+                "svantaggi": "Richiede calibrazioni precise per evitare l'ingresso di invasioni aliene da altri universi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche di Cottura",
+        "contenuto": [
+          {
+            "nome": "Bollitura",
+            "tecniche": [
+              {
+                "nome": "Ebollizione Magneto-Cinetica Pulsante",
+                "descrizione": "Utilizza campi magnetici pulsanti che esaltano il movimento cinetico delle molecole d'acqua.",
+                "vantaggi": "Distribuzione termica omogenea che preserva i sapori naturali.",
+                "svantaggi": "Richiede coordinamento preciso della frequenza dei campi magnetici per evitare turbolenze."
+              }
+            ]
+          },
+          {
+            "nome": "Grigliare",
+            "tecniche": [
+              {
+                "nome": "Grigliatura a Energia Stellare DiV",
+                "descrizione": "Utilizza energia raccolta e incanalata direttamente da una stella di Tipo G tramite strutture di Dyson.",
+                "vantaggi": "Cottura uniforme che esalta le sfumature organolettiche.",
+                "svantaggi": "Richiede un'infrastruttura avanzata per prevenire fluttuazioni termiche impreviste."
+              }
+            ]
+          },
+          {
+            "nome": "Forno",
+            "tecniche": [
+              {
+                "nome": "Cottura al Forno con Paradosso Temporale Cronospeculare",
+                "descrizione": "Manipola anomalie temporali utilizzando riflessi temporanei per creare un ciclo infinito di calore tra passato e futuro.",
+                "vantaggi": "Assicura consistenza ideale sia all'interno che all'esterno.",
+                "svantaggi": "Necessita di algoritmi temporali di precisione per evitare deviazioni fra i flussi cronologici."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche Avanzate",
+        "contenuto": [
+          {
+            "nome": "Decostruzione",
+            "tecniche": [
+              {
+                "nome": "Decostruzione Atomica a Strati Energetici",
+                "descrizione": "Il cibo viene suddiviso a livello atomico utilizzando campi energetici concentrati.",
+                "vantaggi": "Permette la creazione di texture e forme impossibili con metodi tradizionali.",
+                "svantaggi": "Le alte energie coinvolte richiedono un uso responsabile per evitare reazioni indesiderate."
+              }
+            ]
+          },
+          {
+            "nome": "Sferificazione",
+            "tecniche": [
+              {
+                "nome": "Sferificazione a Gravità Psionica Variabile",
+                "descrizione": "Un telepate sospende gli ingredienti in un campo a gravità variabile per modulare la forza gravitazionale.",
+                "vantaggi": "Consente la creazione di sfere con consistenze e diametri personalizzati.",
+                "svantaggi": "Necessita di un controllo preciso della gravità per evitare deformazioni o collassi delle sfere."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+```

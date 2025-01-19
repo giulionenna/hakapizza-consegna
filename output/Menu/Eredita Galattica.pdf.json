@@ -1,0 +1,223 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Eredità Galattica",
+      "galaxy": "Cybertron",
+      "planet": "N/A",
+      "chef": {
+        "name": "Alessandro Chronos",
+        "alias": "Il Maestro del Tempo",
+        "background": "Pioniere nella culinaria interstellare, specializzato in tecniche temporali",
+        "specialSkills": {
+          "Psionica": "II",
+          "Temporale": "III",
+          "Gravitazionale": "III",
+          "Antimateria": "I",
+          "Quantistica": "II",
+          "Luce": "II",
+          "LivelloTecnologico": "III",
+          "Magnetica": "I",
+          "otherSkills": [
+            "Manipolazione dello spettro luminoso",
+            "Conservazione attraverso bolle temporali"
+          ]
+        },
+        "culinaryAchievements": "Creatore di ricette di civiltà scomparse",
+        "education": "Perfezionamento culinario presso l'Accademia Temporale di Andromeda",
+        "experience": [
+          "Chef presso L'Eredità Galattica da 10 anni",
+          "Collaborazioni con intergalactic symposiums of culinaria"
+        ]
+      },
+      "location": {
+        "environment": "Sale fluttuanti e ambienti personalizzati",
+        "dimension": "Quantum Temporal"
+      },
+      "cuisine": {
+        "type": "Fusion interstellare temporale",
+        "inspirations": [
+          "Tradizioni multiculturali dell'universo",
+          "Tecnologie culinarie avanzate"
+        ]
+      },
+      "established": "3022",
+      "technologyLevel": "III",
+      "menu": [
+        {
+          "dish_name": "Sinfonia Tempolare Galattica",
+          "signatureDish": true,
+          "description": "Un viaggio culinario attraverso il tempo e lo spazio, con ingredienti provenienti dai confini dell'universo.",
+          "ingredients": [
+            {
+              "name": "Polvere di Crononite",
+              "origin": "Galassia Antica"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Pianeta Graviton"
+            },
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Foreste di Etheris"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Ecosistema di Nebulosa X9"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Oceani di Poseidonis"
+            },
+            {
+              "name": "Carne di Mucca",
+              "origin": "Fattorie di Terra"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Campi Solari"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Forni Stellari"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Campi Stellari"
+            },
+            {
+              "name": "Funghi Orbitali",
+              "origin": "Anelli di Saturnia"
+            },
+            {
+              "name": "Erba Pipa",
+              "origin": "Praterie di Aurora"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Bollitura Infrasonica Armonizzata",
+              "effect": "Esalta l'aroma senza perdita di umidità"
+            },
+            {
+              "name": "Fermentazione Temporale Sincronizzata",
+              "effect": "Raggiunge la perfezione degli aromi in tempi ridotti"
+            },
+            {
+              "name": "Cottura con Microonde Entropiche Sincronizzate",
+              "effect": "Uniforme e veloce doratura"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Galattico della Nebulosa",
+              "notes": "Note di frutti stellari"
+            }
+          ],
+          "price": "5000 crediti intergalattici",
+          "notes": "Un piatto che narra di civiltà perdute"
+        },
+        {
+          "dish_name": "Cosmopolis delle Galassie Perdute",
+          "signatureDish": false,
+          "description": "Un piatto che fonde la ricchezza dello spazio con leggende dimenticate e sapori universali.",
+          "ingredients": [
+            {
+              "name": "Polvere di Stelle",
+              "origin": "Cieli di Solaria"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Foreste Plutoniane"
+            },
+            {
+              "name": "Carne di Balena spaziale",
+              "origin": "Mari di Andromeda"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Regioni Vulcaniche di Draco"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Paludi di Hydraxis"
+            },
+            {
+              "name": "Farina di Nettuno",
+              "origin": "Campi di Nettunium"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Valli di Eldoria"
+            },
+            {
+              "name": "Spezie Melange",
+              "origin": "Mercati di Arrakis"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura con Microonde Entropiche Sincronizzate",
+              "effect": "Assicura una cottura uniforme"
+            },
+            {
+              "name": "Cottura a Vapore Ecodinamico Bilanciato",
+              "effect": "Rilascia fragranza esaltando i sapori"
+            },
+            {
+              "name": "Cryo-Tessitura Energetica Polarizzata",
+              "effect": "Sigilla gli aromi e conserva vitamine"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Succo di Nebulosa",
+              "notes": "Note dolci e fruttate"
+            }
+          ],
+          "price": "4200 crediti intergalattici",
+          "notes": "Trasporta in un'esperienza sensoriale unica"
+        }
+      ],
+      "concept": "Una celebrazione della diversità culinaria interstellare",
+      "additionalFeatures": [
+        {
+          "feature": "Ambienti variabili",
+          "description": "Ogni sala offre condizioni uniche di gravità"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stella Interstellare della Culinaria",
+          "year": "3025"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine dei Custodi Temporali",
+          "symbol": "Clessidra e Coltello"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "2 settimane",
+        "allowedPayments": [
+          "Crediti Intergalattici",
+          "Barra d'Oro",
+          "Scambi di Materia"
+        ],
+        "specialConditions": "Accesso limitato tramite portale temporale"
+      },
+      "ambiance": {
+        "themes": [
+          "Futuristico",
+          "Antiche Civiltà"
+        ],
+        "uniqueAspects": [
+          "Installazioni artistiche di luce",
+          "Sincronizzazione sonora"
+        ]
+      }
+    }
+  ]
+}
+```

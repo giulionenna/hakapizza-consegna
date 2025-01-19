@@ -1,0 +1,140 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Essenza Cosmica",
+      "galaxy": "Via Lattea",
+      "planet": "Pandora",
+      "chef": {
+        "name": "Alessandro Stellanova",
+        "alias": "Maestro della Sinfonia Psionica",
+        "background": "Un pioniere della cucina multidimensionale, originario di un angolo remoto del suo mondo natale.",
+        "specialSkills": {
+          "Psionica": "Livello V",
+          "Temporale": "Livello I",
+          "Gravitazionale": "Livello I",
+          "Antimateria": "Livello II",
+          "Quantistica": "Livello 3",
+          "Luce": "Livello III",
+          "LivelloTecnologico": "Avanzato",
+          "Magnetica": "Livello II",
+          "otherSkills": ["Controllo dei flussi Temporali", "Manipolazione Energetica"]
+        },
+        "culinaryAchievements": "Certificazione LTK di livello III",
+        "education": "Formazione presso l'Accademia Culinaria dell'Infinito",
+        "experience": ["Chef presso L'Essenza Cosmica", "Esperienze culinarie interdimensionali"]
+      },
+      "location": {
+        "environment": "Armonie naturali e misteri cosmici",
+        "dimension": "Dimensione parallela"
+      },
+      "cuisine": {
+        "type": "Fusion interplanetaria",
+        "inspirations": ["Tecniche culinarie avanzate", "Misteri dell'universo"]
+      },
+      "established": "3127",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "Nebulosa di Drago Interdimensionale",
+          "signatureDish": true,
+          "description": "Un viaggio sensoriale attraverso le stelle e l'oceano, con carne di drago marinata temporalmente e grigliata elettro-molecolarmente con pane di luce.",
+          "ingredients": [
+            {
+              "name": "Carne di Drago",
+              "origin": "Montagne di Pandora"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Stella lontana"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Foreste di Stellarion"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Marinatura Temporale Sincronizzata",
+              "effect": "Esalta il gusto piegando il tempo"
+            },
+            {
+              "name": "Grigliatura Elettro-Molecolare",
+              "effect": "Sigilla succhi e aromi"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino di Astromiele",
+              "notes": "Esalta le note stellari del piatto"
+            }
+          ],
+          "price": "250 crediti",
+          "notes": "Un invito a esplorare il cosmo culinario"
+        },
+        {
+          "dish_name": "Sinfonia Cosmica: La Danza dell'Universo",
+          "signatureDish": false,
+          "description": "Risotto di alghe bioluminescenti con carne di drago cotta olograficamente, avvolta in pane degli abissi.",
+          "ingredients": [
+            {
+              "name": "Alghe Bioluminescenti",
+              "origin": "Mari di Andromeda"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Montagne di Pandora"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Oceani di Neptune"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Olografica Quantum Fluttuante",
+              "effect": "Garantisce texture succose"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir di Crononite",
+              "notes": "Offre sensazioni calmanti cosmiche"
+            }
+          ],
+          "price": "300 crediti",
+          "notes": "Un'esperienza che abbraccia il cosmo"
+        }
+      ],
+      "concept": "Fusione di arte culinaria e meraviglia universale",
+      "additionalFeatures": [
+        {
+          "feature": "Portale culinario",
+          "description": "Ospiti viaggiano attraverso gusti e dimensioni"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stella dell'Esplorazione Culinaria",
+          "year": "3130"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Confraternita degli Chef Cosmogastronomici",
+          "symbol": "Stella con coltelli incrociati"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "Variable, secondo le armonie planetarie",
+        "allowedPayments": ["Credito Galattico", "Gemma di Lumina"],
+        "specialConditions": "Prenotazioni aperte in base agli echi quantici"
+      },
+      "ambiance": {
+        "themes": ["Interstellare", "Naturale"],
+        "uniqueAspects": ["Cambiante come le dimensioni", "Luci cangianti"]
+      }
+    }
+  ]
+}
+```

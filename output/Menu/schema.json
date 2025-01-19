@@ -1,0 +1,94 @@
+
+{
+  "restaurants": [
+    {
+      "name": "",
+      "galaxy": "",
+      "planet": "",
+      "chef": {
+        "name": "",
+        "alias": "",
+        "background": "",
+        "specialSkills": {
+          "Psionica": "",
+          "Temporale": "",
+          "Gravitazionale": "",
+          "Antimateria": "",
+          "Quantistica": "",
+          "Luce": "",
+          "LivelloTecnologico": "",
+          "Magnetica": "",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "",
+        "education": "",
+        "experience": []
+      },
+      "location": {
+        "environment": "",
+        "dimension": ""
+      },
+      "cuisine": {
+        "type": "",
+        "inspirations": []
+      },
+      "established": "",
+      "technologyLevel": "",
+      "menu": [
+        {
+          "dish_name": "",
+          "signatureDish": false,
+          "description": "",
+          "ingredients": [
+            {
+              "name": "",
+              "origin": ""
+            }
+          ],
+          "techniques": [
+            {
+              "name": "",
+              "effect": ""
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "",
+              "notes": ""
+            }
+          ],
+          "price": "",
+          "notes": ""
+        }
+      ],
+      "concept": "",
+      "additionalFeatures": [
+        {
+          "feature": "",
+          "description": ""
+        }
+      ],
+      "awards": [
+        {
+          "name": "",
+          "year": ""
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "",
+          "symbol": ""
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "",
+        "allowedPayments": [],
+        "specialConditions": ""
+      },
+      "ambiance": {
+        "themes": [],
+        "uniqueAspects": []
+      }
+    }
+  ]
+}

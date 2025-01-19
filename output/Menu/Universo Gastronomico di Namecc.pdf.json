@@ -1,0 +1,181 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Universo Gastronomico di Namecc",
+      "galaxy": "Galassia Namecc",
+      "planet": "Namecc",
+      "chef": {
+        "name": "Alice Quantum-Rossi",
+        "alias": "Quantum",
+        "background": "Fisica quantistica",
+        "specialSkills": {
+          "Psionica": "II",
+          "Temporale": "I",
+          "Gravitazionale": "I",
+          "Antimateria": "None",
+          "Quantistica": "15",
+          "Luce": "I",
+          "LivelloTecnologico": "VI+",
+          "Magnetica": "I",
+          "otherSkills": ["Cottura Olografica Quantum Fluttuante", "Affumicatura Psionica Sensoriale"]
+        },
+        "culinaryAchievements": "Creazione del Risotto dei Multiversi",
+        "education": "Studi di Fisica Quantistica e Arte Culinaria",
+        "experience": ["Ha lavorato in diverse dimensioni", "Collaborazioni multiuniversali"]
+      },
+      "location": {
+        "environment": "Naturale e cosmico",
+        "dimension": "Multidimensionale"
+      },
+      "cuisine": {
+        "type": "Cucina quantistica e interdimensionale",
+        "inspirations": ["Scienza", "Arte", "Gusto"]
+      },
+      "established": "Anno 3020",
+      "technologyLevel": "Avanguardia",
+      "menu": [
+        {
+          "dish_name": "Risotto dei Multiversi",
+          "signatureDish": true,
+          "description": "Piatto sensoriale che trascende tempo e spazio per un viaggio dimensionale di sapori.",
+          "ingredients": [
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Dimensioni alternative"
+            },
+            {
+              "name": "Cristalli di Nebulite",
+              "origin": "Galassie remote"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Universi magici"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Olografica Quantum Fluttuante",
+              "effect": "Perfetta armonia degli ingredienti"
+            },
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Intenso e personalizzato"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Universale",
+              "notes": "Note fruttate ed eteree"
+            }
+          ],
+          "price": "120 crediti stellari",
+          "notes": "Piatto che invita all'esplorazione del gusto e delle possibilità."
+        },
+        {
+          "dish_name": "Panetto di Carne",
+          "signatureDish": false,
+          "description": "Un risotto innovativo con note oceaniche e celesti.",
+          "ingredients": [
+            {
+              "name": "Farina di Nettuno",
+              "origin": "Abissi marini"
+            },
+            {
+              "name": "Funghi Orbitali",
+              "origin": "Luoghi remoti e celesti"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Abissi oceanici"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Temporale Risonante",
+              "effect": "Fumo cronico prolungato"
+            },
+            {
+              "name": "Sferificazione Filamentare a Molecole Vibrazionali",
+              "effect": "Esplosioni di sapore"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Birra Stellare",
+              "notes": "Rinfrescante e aromatica"
+            }
+          ],
+          "price": "95 crediti stellari",
+          "notes": "Piatto ispirato ad elementi dell'universo."
+        },
+        {
+          "dish_name": "Cosmos Risotto Reale",
+          "signatureDish": false,
+          "description": "Variante del Risotto dei Multiversi con energia multidimensionale.",
+          "ingredients": [
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Galassie lontane"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Abissi oceanici"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Stelle lontane"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Saltare in Padella Realtà Energetiche Parallele",
+              "effect": "Cottura alla perfezione"
+            },
+            {
+              "name": "Ebollizione Magneto-Cinetica Pulsante",
+              "effect": "Mantenimento della purezza degli ingredienti"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Succo di Galassia",
+              "notes": "Fresco e rinvigorente"
+            }
+          ],
+          "price": "110 crediti stellari",
+          "notes": "Esplorazione dei limiti del gusto."
+        }
+      ],
+      "concept": "Culinario esplorativo e multidimensionale",
+      "additionalFeatures": [
+        {
+          "feature": "Esperienze culinarie immersive",
+          "description": "Ogni pasto è un viaggio tra scienza, arte e infinite possibilità."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Orione Pazienza del Gusto",
+          "year": "3021"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Consiglio Intergalattico dei Chef Quantici",
+          "symbol": "Simbolo di un quasar incapsulato"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "1 mese",
+        "allowedPayments": ["Crediti stellari", "Baratto dimensionale"],
+        "specialConditions": "Apertura dei portali dimensionali in abbondanza"
+      },
+      "ambiance": {
+        "themes": ["Fantascienza", "Arte quantistica"],
+        "uniqueAspects": ["Vista multidimensionale dalle finestre", "Musica a risoluzione temporale"]
+      }
+    }
+  ]
+}
+```

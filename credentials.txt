@@ -1,0 +1,3 @@
+ENDPOINT_URL="https://us-south.ml.cloud.ibm.com"
+API_KEY="edsLkpMKNcg95Ts1Lfuvv3w2_K4kL5owh97pTjpAdOuJ"
+PROJECT_ID="4f651d94-e286-4726-b84b-0df69a71dfd3"

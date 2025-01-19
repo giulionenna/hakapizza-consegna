@@ -1,0 +1,131 @@
+```json
+{
+  "documentNumber": "",
+  "officialGazette": {
+    "documentCode": "",
+    "cycleDay": "",
+    "cosmicCycle": ""
+  },
+  "intergalacticCouncil": {
+    "councilName": "",
+    "decreeCode": "",
+    "date": "",
+    "regulations": {
+      "safetyRegulations": {
+        "section": "",
+        "groups": [
+          {
+            "groupName": "",
+            "details": ""
+          }
+        ]
+      }
+    }
+  },
+  "orderDefinitions": [
+    {
+      "orderName": "",
+      "requirements": ""
+    }
+  ],
+  "regulatedSubstances": {
+    "limitGeneral": "",
+    "categories": [
+      {
+        "categoryName": "",
+        "details": ""
+      }
+    ],
+    "substanceTable": [
+      {
+        "substanceName": "",
+        "properties": {
+          "property1": "",
+          "property2": ""
+        }
+      }
+    ]
+  },
+  "quantitativeLimits": {
+    "psionicLimits": {
+      "CRP": "",
+      "limit": ""
+    },
+    "mythicOrigins": {
+      "IPM": "",
+      "limit": ""
+    },
+    "xenoBio": {
+      "IBX": "",
+      "limit": "",
+      "mutationPotential": {
+        "mu": "",
+        "limit": ""
+      }
+    },
+    "quantumDimensional": {
+      "deltaQ": "",
+      "limit": ""
+    },
+    "spaceTemporal": {
+      "CDT": "",
+      "limit": ""
+    }
+  },
+  "licensesAndTechniques": {
+    "licenseDetails": [
+      {
+        "licenseType": "",
+        "class": "",
+        "level": "",
+        "description": ""
+      }
+    ],
+    "preparationTechniques": [
+      {
+        "techniqueName": "",
+        "requirement": {
+          "license": "",
+          "level": "",
+          "technologyGrade": ""
+        }
+      }
+    ]
+  },
+  "sanctionsAndPenalties": {
+    "sanctionSystem": {
+      "violationType": "",
+      "penaltyDescription": ""
+    },
+    "compositeSanctionsCalculation": {
+      "methodology": "",
+      "factors": [
+        {
+          "factorType": "",
+          "description": ""
+        }
+      ]
+    }
+  },
+  "finalProvisions": {
+    "implementationPeriod": "",
+    "exemptions": {
+      "authority": "",
+      "consultationProcess": "",
+      "considerations": ""
+    }
+  },
+  "appendix": {
+    "compositeSanctionsMethodology": {
+      "baseEvaluation": "",
+      "multipliers": [
+        {
+          "type": "",
+          "description": ""
+        }
+      ],
+      "calculationAuthority": ""
+    }
+  }
+}
+```

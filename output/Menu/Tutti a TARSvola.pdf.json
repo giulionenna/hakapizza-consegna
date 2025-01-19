@@ -1,0 +1,175 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Tutti a TARSvola",
+      "galaxy": "Via Lattea",
+      "planet": "Tatooine",
+      "chef": {
+        "name": "Isabella Quantum-Stellari",
+        "alias": "La Strega delle Stelle",
+        "background": "Medito nei deserti di Jakku, ha scoperto la sua vocazione dai rotoli Jedi",
+        "specialSkills": {
+          "Psionica": "IV",
+          "Temporale": "Assente",
+          "Gravitazionale": "I",
+          "Antimateria": "I",
+          "Quantistica": "8 stati",
+          "Luce": "II",
+          "LivelloTecnologico": "Avanzato",
+          "Magnetica": "Assente",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Ha rivoluzionato la comprensione culinaria interplanetaria.",
+        "education": "Formazione attraverso meditazione e studio degli antichi rotoli Jedi.",
+        "experience": [
+          "Esplorazioni culinarie sui confini delle galassie conosciute.",
+          "Collaborazione con il Consiglio Jedi."
+        ]
+      },
+      "location": {
+        "environment": "Sotto le doppie lune in un angolo remoto",
+        "dimension": "Multi-dimensionale"
+      },
+      "cuisine": {
+        "type": "Galattica e interdimensionale",
+        "inspirations": [
+          "Tradizioni cosmiche",
+          "Antiche arti Jedi"
+        ]
+      },
+      "established": "3020",
+      "technologyLevel": "High",
+      "menu": [
+        {
+          "dish_name": "Galassia Sensoriale",
+          "signatureDish": true,
+          "description": "Un'esperienza sensoriale che intreccia i sapori delle stelle.",
+          "ingredients": [
+            {
+              "name": "Frammenti di Supernova",
+              "origin": "Esplosioni stellari"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Campi magnetici di Neutroni"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Gascogne solari"
+            },
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Pianeta Cassandra"
+            },
+            {
+              "name": "Nettare di Sirena",
+              "origin": "Oceani mistici"
+            },
+            {
+              "name": "Petali di Eco",
+              "origin": "Foreste riflettenti"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Marinatura Psionica",
+              "effect": "Sincronizzazione emozionale"
+            },
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Cottura uniforme omnidimensionale"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino di Neutroni",
+              "notes": "Perfetto per amplificare le sensazioni stellari."
+            }
+          ],
+          "price": "300 Credits",
+          "notes": "Ogni dimensione di gusto è calibrata per i viaggiatori interplanetari."
+        },
+        {
+          "dish_name": "Cosmopastico di Meraviglie Celesti",
+          "signatureDish": false,
+          "description": "Un mix stellare di carne mitologica e spezie cosmiche.",
+          "ingredients": [
+            {
+              "name": "Carne di Kraken",
+              "origin": "Mari di dimensioni oscure"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi infuocati"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Reami draconici"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Gascogne solari"
+            },
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Pianeta Cassandra"
+            },
+            {
+              "name": "Spezie Melange",
+              "origin": "Mercati di spezie interstellari"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Impasto Gravitazionale Vorticoso",
+              "effect": "Densità del sapore traese"
+            },
+            {
+              "name": "Sinergia Elettro-Osmotica Programmabile",
+              "effect": "Controllo dinamico dei fluidi"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir della Fenice",
+              "notes": "Risveglia il fuoco interiore e armonizza i sapori."
+            }
+          ],
+          "price": "400 Credits",
+          "notes": "I sapori si mescolano a seconda dell'umore dell'universo."
+        }
+        // ... (other dishes follow the same structure)
+      ],
+      "concept": "Un portale verso le infinite possibilità di gusto e di esistenza.",
+      "additionalFeatures": [
+        {
+          "feature": "Aurore Boreali Comestibili",
+          "description": "Esperienze visive che arricchiscono la presentazione dei piatti."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Best Intergalactic Dining Experience",
+          "year": "3025"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Consiglio Jedi",
+          "symbol": "Spada di Luce"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "3 giorni",
+        "allowedPayments": ["Credito Galattico", "Cristalli di Nebulite"],
+        "specialConditions": "Meditazione preliminare consigliata per i nuovi clienti."
+      },
+      "ambiance": {
+        "themes": ["Cosmic", "Interdimensional"],
+        "uniqueAspects": ["Aurora display", "Stellar light shows"]
+      }
+    }
+  ]
+}
+```

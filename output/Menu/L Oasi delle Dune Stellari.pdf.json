@@ -1,0 +1,578 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Oasi delle Dune Stellari",
+      "galaxy": "Via Lattea",
+      "planet": "Tatooine",
+      "chef": {
+        "name": "Alessandra Celestini",
+        "alias": "Nova",
+        "background": "Una volta architetta interstellare del Consorzio del Sistema, ora chef di talento.",
+        "specialSkills": {
+          "Psionica": "IV",
+          "Temporale": "III",
+          "Gravitazionale": "I",
+          "Antimateria": "I",
+          "Quantistica": "9",
+          "Luce": "III",
+          "LivelloTecnologico": "IV",
+          "Magnetica": "I",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Plasma sapori con tecnica unica, creando esperienze multisensoriali.",
+        "education": "Accademia Galattica delle Arti Culinarie",
+        "experience": [
+          "Architetta interstellare",
+          "Chef presso L'Oasi delle Dune Stellari"
+        ]
+      },
+      "location": {
+        "environment": "Deserto",
+        "dimension": "Locale"
+      },
+      "cuisine": {
+        "type": "Fusion galattica",
+        "inspirations": ["Cultura stellare", "Civilizzazioni dimenticate"]
+      },
+      "established": "3085",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "La Creazione di Nova",
+          "signatureDish": true,
+          "description": "Un piatto multidimensionale che fonde arte, scienza e cultura cosmica.",
+          "ingredients": [
+            {
+              "name": "Frammenti di Supernova",
+              "origin": "Spazio profondo"
+            },
+            {
+              "name": "Lattuga Namecciana",
+              "origin": "Pianeta Namecc"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Foreste di Andromeda"
+            },
+            {
+              "name": "Fibra di Sintetex",
+              "origin": "Laboratorio sintetico"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Specie mitologica"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Dimensione Magica"
+            },
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Galassia Cassandra"
+            },
+            {
+              "name": "Essenza di Vuoto",
+              "origin": "Dimensione Astrale"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Olografica Quantum Fluttuante",
+              "effect": "Permette agli ingredienti di danzare in sinergia."
+            },
+            {
+              "name": "Fermentazione Psionica Energetica",
+              "effect": "Adatta i sapori al palato dell'ospite."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Essenza di Stelle",
+              "notes": "Esalta i sapori cosmici del piatto."
+            }
+          ],
+          "price": "150 cristalli di sabbia",
+          "notes": "Ogni morso è un'esplorazione di storie galattiche."
+        },
+        {
+          "dish_name": "Eterea Sinfonia di Gravità con Infusione Temporale",
+          "signatureDish": false,
+          "description": "Un filetto mistico che esplora il continuum spazio-temporale.",
+          "ingredients": [
+            {
+              "name": "Carne di Xenodonte",
+              "origin": "Pianeta Xenon"
+            },
+            {
+              "name": "Funghi dell’Etere",
+              "origin": "Pianeta Mysticor"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Foreste di Andromeda"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Laboratorio quantico"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Congelazione Iperdimensionalmente Stratificata",
+              "effect": "Mantiene intatta ogni componente a livello subatomico."
+            },
+            {
+              "name": "Sinergia Elettro-Osmotica Programmabile",
+              "effect": "Penetra la carne con aromi elettromagnetici."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare degli Orizzonti",
+              "notes": "Bilancia la composizione eterea."
+            }
+          ],
+          "price": "180 cristalli di sabbia",
+          "notes": "La tecnica di infusione garantisce una complessità sorprendente."
+        },
+        {
+          "dish_name": "Universo in Fusilli - Variazione Celestiale",
+          "signatureDish": false,
+          "description": "Fusilli galattici in sinfonia di sapori stellari.",
+          "ingredients": [
+            {
+              "name": "Teste di Idra",
+              "origin": "Specie mitologica"
+            },
+            {
+              "name": "Carne di Xenodonte",
+              "origin": "Pianeta Xenon"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Acque profonde"
+            },
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Correnti stellari"
+            },
+            {
+              "name": "Muffa Lunare",
+              "origin": "Superficie lunare"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Modellatura Onirica Tetrazionale",
+              "effect": "Plasma forme culinarie inconsuete."
+            },
+            {
+              "name": "Decostruzione Ancestrale",
+              "effect": "Rivela sapori e tradizioni celate."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino di Nebula",
+              "notes": "Completa le note terrestri del piatto."
+            }
+          ],
+          "price": "200 cristalli di sabbia",
+          "notes": "Un intricato viaggio tra le stelle della memoria."
+        },
+        {
+          "dish_name": "Cosmic Serenade",
+          "signatureDish": false,
+          "description": "Un incontro tra sapori cosmici e melodie galattiche.",
+          "ingredients": [
+            {
+              "name": "Shard di Materia Oscura",
+              "origin": "Universo oscuro"
+            },
+            {
+              "name": "Foglie di Mandragora",
+              "origin": "Ecosistema magico"
+            },
+            {
+              "name": "Carne di Balena spaziale",
+              "origin": "Profondità spaziali"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Abissi galattici"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Stalle plasmatiche"
+            },
+            {
+              "name": "Nettare di Sirena",
+              "origin": "Leggende oceaniche"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Laboratorio quantico"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Sferificazione a Gravità Psionica Variabile",
+              "effect": "Creazione di sfere di sostanza fluttuanti nel piatto."
+            },
+            {
+              "name": "Ebollizione Magneto-Cinetica Pulsante",
+              "effect": "Infusione magnetica di ingredienti."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare Astrale",
+              "notes": "Arricchisce il viaggio con una nota dolce e persistente."
+            }
+          ],
+          "price": "190 cristalli di sabbia",
+          "notes": "Ogni morso è un'odissea di sapori sconosciuti."
+        },
+        {
+          "dish_name": "Ecosistema Celeste",
+          "signatureDish": false,
+          "description": "Una sinfonia culinaria che esplora ecosistemi stellari.",
+          "ingredients": [
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Pianeta Flora Nova"
+            },
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Giungla intergalattica"
+            },
+            {
+              "name": "Baccacedro",
+              "origin": "Pianeta Cedralius"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Stalle plasmatiche"
+            },
+            {
+              "name": "Lacrime di Andromeda",
+              "origin": "Nebulosa Andromeda"
+            },
+            {
+              "name": "Nduja Fritta Tanto",
+              "origin": "Dimensione piccante"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Decostruzione Ancestrale",
+              "effect": "Risveglio dei profumi di civiltà passate."
+            },
+            {
+              "name": "Surgelamento Antimaterico a Risonanza Inversa",
+              "effect": "Preservazione delle energie curative degli ingredienti."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir di Vita",
+              "notes": "Integra le note di rinascita del piatto."
+            }
+          ],
+          "price": "170 cristalli di sabbia",
+          "notes": "Un viaggio attraverso le epoche delle stelle."
+        },
+        {
+          "dish_name": "Universo in Un Boccone",
+          "signatureDish": false,
+          "description": "Un'esperienza interdimensionale riassunta in un solo morso.",
+          "ingredients": [
+            {
+              "name": "Frammenti di Supernova",
+              "origin": "Spazio profondo"
+            },
+            {
+              "name": "Radici di Singolarità",
+              "origin": "Nuclei delle stelle"
+            },
+            {
+              "name": "Alghe Bioluminescenti",
+              "origin": "Oceani stellari"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Specie mitologica"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Dimensione Magica"
+            },
+            {
+              "name": "Gnocchi del Crepuscolo",
+              "origin": "Giardino delle Ombre"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Alba cosmica"
+            },
+            {
+              "name": "Muffa Lunare",
+              "origin": "Superficie lunare"
+            },
+            {
+              "name": "Nduja Fritta Tanto",
+              "origin": "Dimensione piccante"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Sottovuoto Bioma Sintetico",
+              "effect": "Perfetta fusione di gusto e consistenza."
+            },
+            {
+              "name": "Sferificazione con Campi Magnetici Entropici",
+              "effect": "Creazione di sfere che esplodono con sapore marino."
+            },
+            {
+              "name": "Idro-Cristallizzazione Sonora Quantistica",
+              "effect": "Conservazione e intensificazione della complessità aromatica."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nebulosa Gassosa",
+              "notes": "Amplifica la complessità del gusto con un tocco efervescente."
+            }
+          ],
+          "price": "200 cristalli di sabbia",
+          "notes": "Lantano ogni limite con un crescendo di sapori cosmici."
+        },
+        {
+          "dish_name": "Nebulosa Celestiale di Sogni Quantici",
+          "signatureDish": false,
+          "description": "Un piatto che racchiude echi di sogni e stelle in un'unica composizione.",
+          "ingredients": [
+            {
+              "name": "Polvere di Crononite",
+              "origin": "Galassia del Tempo"
+            },
+            {
+              "name": "Baccacedro",
+              "origin": "Pianeta Cedralius"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Pianeta Flora Nova"
+            },
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Giungla intergalattica"
+            },
+            {
+              "name": "Granuli di Nebbia Arcobaleno",
+              "origin": "Atmosfera Multicolor"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Stalle plasmatiche"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Regno Magico"
+            },
+            {
+              "name": "Salsa Szechuan",
+              "origin": "Terra"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Temporale Risonante",
+              "effect": "Infusione degli elementi temporanei per una profondità unica."
+            },
+            {
+              "name": "Affumicatura tramite Big Bang Microcosmico",
+              "effect": "Esaltazione dei sapori attraverso una fusione di particelle."
+            },
+            {
+              "name": "Surgelamento Antimaterico a Risonanza Inversa",
+              "effect": "Conservazione degli ingredienti in uno stato di fresco perpetuo."
+            },
+            {
+              "name": "Sferificazione Cromatica Interdimensionale",
+              "effect": "Creazione di visioni gustative multicolori."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Essenza Multiversale",
+              "notes": "Riequilibra le sensazioni esalando sfumature astrali."
+            }
+          ],
+          "price": "185 cristalli di sabbia",
+          "notes": "Ogni assaggio è un viaggio nei reami della coscienza."
+        },
+        {
+          "dish_name": "Universo Cosmico nel Piatto",
+          "signatureDish": false,
+          "description": "Fili di sapore e riflessi stellari in una composizione galattica.",
+          "ingredients": [
+            {
+              "name": "Vero Ghiaccio",
+              "origin": "Galassia Cryos"
+            },
+            {
+              "name": "Lattuga Namecciana",
+              "origin": "Pianeta Namecc"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Pianeta Flora Nova"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nido Celeste"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Abissi galattici"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Sole Galattico"
+            },
+            {
+              "name": "Muffa Lunare",
+              "origin": "Superficie lunare"
+            },
+            {
+              "name": "Erba Pipa",
+              "origin": "Giardino delle Ombre"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Ebollizione Magneto-Cinetica Pulsante",
+              "effect": "Fusione integrata di sapori e consistenze."
+            },
+            {
+              "name": "Bollitura Entropica Sincronizzata",
+              "effect": "Finalizzazione della texture con influssi entropici."
+            },
+            {
+              "name": "Sferificazione tramite Matrici Biofotiche",
+              "effect": "Luminescenza intensiva esplicitata in forma di sfere."
+            },
+            {
+              "name": "Incisione Elettromagnetica Plasmica",
+              "effect": "Creazione di pattern gustativi armonici."
+            },
+            {
+              "name": "Idro-Cristallizzazione Sonora Quantistica",
+              "effect": "Risonanza sensoriale conservata."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Ambrosia della Nebulosa",
+              "notes": "Sublima i sapori con una complessità floreale."
+            }
+          ],
+          "price": "175 cristalli di sabbia",
+          "notes": "Ogni elemento danza in perfetta armonia cosmica."
+        },
+        {
+          "dish_name": "Galassia Speculare",
+          "signatureDish": false,
+          "description": "Energia cinetica del cosmo in una fusione multipla di mondi culinari.",
+          "ingredients": [
+            {
+              "name": "Polvere di Pulsar",
+              "origin": "Stella morente"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Pianeta Flora Nova"
+            },
+            {
+              "name": "Radici di Singolarità",
+              "origin": "Nuclei delle stelle"
+            },
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Giungla intergalattica"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Alba cosmica"
+            },
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Correnti stellari"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Laboratorio quantico"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Sferificazione tramite Matrici Biofotiche",
+              "effect": "Induce luminescenza interplanetaria."
+            },
+            {
+              "name": "Ebollizione Magneto-Cinetica Pulsante",
+              "effect": "Fusione integrata di sapori e consistenze."
+            },
+            {
+              "name": "Affumicatura Polarizzata a Freddo Iperbarico",
+              "effect": "Aggiunge un'aroma delicato."
+            },
+            {
+              "name": "Cryo-Tessitura Energetica Polarizzata",
+              "effect": "Amplificazione energetica del sapore."
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Essenza di Luce",
+              "notes": "Rende il pasto un'esperienza illuminante."
+            }
+          ],
+          "price": "220 cristalli di sabbia",
+          "notes": "Un pasto che parla alla coscienza dell'universo."
+        }
+      ],
+      "concept": "Un'esperienza culinaria che trascende il tempo e lo spazio, integrando arte, scienza e storia stellare.",
+      "additionalFeatures": [
+        {
+          "feature": "Atmosfera cosmica",
+          "description": "La sala è immersa nel bagliore soffuso di una nebulosa stellare."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stelle del Cosmo",
+          "year": "3090"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Consorzio del Sistema",
+          "symbol": "Stella e Planisfero"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "3 cicli lunari",
+        "allowedPayments": ["Cristalli di sabbia", "Energie quantiche"],
+        "specialConditions": "Prenotazione necessaria con largo anticipo."
+      },
+      "ambiance": {
+        "themes": ["Galattico", "Onirico"],
+        "uniqueAspects": ["Esperienza multisensoriale", "Narrativa interstellare"]
+      }
+    }
+  ]
+}
+```

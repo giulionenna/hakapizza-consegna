@@ -1,0 +1,66 @@
+ {
+ "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "nomeRistorante": {
+      "type": "string",
+      "description": "Il nome del ristorante"
+    },
+    "indirizzo": {
+      "type": "string",
+      "description": "L'indirizzo del ristorante"
+    },
+    "menu": {
+      "type": "array",
+      "description": "L'elenco dei menu del ristorante",
+      "items": {
+        "type": "object",
+        "properties": {
+          "dataMenu": {
+            "type": "string",
+            "format": "date",
+            "description": "La data di validità del menu"
+          },
+          "piatti": {
+            "type": "array",
+            "description": "L'elenco dei piatti del menu",
+            "items": {
+              "type": "object",
+              "properties": {
+                "nomePiatto": {
+                  "type": "string",
+                  "description": "Il nome del piatto"
+                },
+                "ingredienti": {
+                  "type": "array",
+                  "description": "Gli ingredienti del piatto",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "nomeIngrediente": {
+                        "type": "string",
+                        "description": "Il nome dell'ingrediente"
+                      },
+                      "quantita": {
+                        "type": "string",
+                        "description": "La quantità dell'ingrediente (es. 100g, 1 cucchiaio)"
+                      }
+                    },
+                    "required": ["nomeIngrediente"],
+                    "additionalProperties": False
+                  }
+                }
+              },
+              "required": ["nomePiatto", "ingredienti"],
+              "additionalProperties": False
+            }
+          }
+        },
+        "required": ["dataMenu", "piatti"],
+        "additionalProperties": False
+      }
+    }
+  },
+  "required": ["nomeRistorante", "menu"],
+  "additionalProperties": False
+}

@@ -1,0 +1,167 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Essenza del Multiverso",
+      "galaxy": "Via Lattea",
+      "planet": "Pandora",
+      "chef": {
+        "name": "Matteo Nexus",
+        "alias": "Custode dei Sapori",
+        "background": "Maestro della cucina interdimensionale",
+        "specialSkills": {
+          "Psionica": "III",
+          "Temporale": "I",
+          "Gravitazionale": "II",
+          "Antimateria": "I",
+          "Quantistica": "II",
+          "Luce": "I",
+          "LivelloTecnologico": "VI",
+          "Magnetica": "I",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Custode di sapori dimenticati e esploratore di gusti interdimensionali",
+        "education": "Accademia Galattica delle Arti Culinarie",
+        "experience": [
+          "Chef presso L'Essenza del Multiverso",
+          "Esploratore dei sapori del multiverso"
+        ]
+      },
+      "location": {
+        "environment": "Montagne fluttuanti e foreste brillanti",
+        "dimension": "Pandora"
+      },
+      "cuisine": {
+        "type": "Fusion galattica",
+        "inspirations": [
+          "Multiverso",
+          "Fantasia interstellare"
+        ]
+      },
+      "established": "3087",
+      "technologyLevel": "VI",
+      "menu": [
+        {
+          "dish_name": "Viaggio Gastronomico tra le Stelle",
+          "signatureDish": true,
+          "description": "Una creazione sublime che cattura l'essenza di infiniti universi.",
+          "ingredients": [
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Spire del Multiverso"
+            },
+            {
+              "name": "Carne di Balena Spaziale",
+              "origin": "Oceani di un pianeta lontano"
+            },
+            {
+              "name": "Radici di Singolarità",
+              "origin": "Profondità cosmiche"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Flussi temporali"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Ebollizione Magneto-Cinetica Pulsante",
+              "effect": "Cottura omogenea con leggerezza eterea"
+            },
+            {
+              "name": "Incisione Elettromagnetica Plasmica",
+              "effect": "Presentazione visuale raffinata"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Stellare",
+              "notes": "Note fruttate con un tocco di eternità"
+            }
+          ],
+          "price": "150 credits",
+          "notes": "Un portale verso dimensioni parallele di gusto"
+        },
+        {
+          "dish_name": "Sinfonia del Cosmo Rigenerante",
+          "signatureDish": false,
+          "description": "Un viaggio multisensoriale che sfida le percezioni del tempo e dello spazio.",
+          "ingredients": [
+            {
+              "name": "Carne di Balena Spaziale",
+              "origin": "Oceani di un pianeta lontano"
+            },
+            {
+              "name": "Cristalli di Memoria",
+              "origin": "Piani astrali"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi delle fiamme eterne"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Cieli incantati"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Sottovuoto Frugale Energeticamente Negativa",
+              "effect": "Conserva sapore robusto a energia quasi zero"
+            },
+            {
+              "name": "Big Bang Microcosmico",
+              "effect": "Genera un'aura universale di fumo"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir di Cristalli Lunari",
+              "notes": "Luminosità mistica con sfumature di nostalgia"
+            }
+          ],
+          "price": "200 credits",
+          "notes": "Un'avventura universale di sapori"
+        }
+      ],
+      "concept": "Un viaggio che espande la percezione della realtà attraverso la cucina",
+      "additionalFeatures": [
+        {
+          "feature": "Ingredienti fluttuanti",
+          "description": "Sospesi con abilità gravitazionale"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Galactic Culinary Excellence",
+          "year": "3090"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Confraternita dei Cuochi dell'Infinito",
+          "symbol": "Stella con coltello e forchetta incrociati"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "3 giorni",
+        "allowedPayments": [
+          "Credit intergalattici",
+          "Baratto di essenze rare"
+        ],
+        "specialConditions": "Prenotazione obbligatoria per l'accesso interdimensionale"
+      },
+      "ambiance": {
+        "themes": [
+          "Futuristico",
+          "Mistico"
+        ],
+        "uniqueAspects": [
+          "Vista panoramica delle montagne fluttuanti",
+          "Illuminazione eterea"
+        ]
+      }
+    }
+  ]
+}
+```

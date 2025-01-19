@@ -1,0 +1,121 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Le Stelle Danzanti",
+      "galaxy": "Orizzonti Cosmici",
+      "planet": "Crocevia Dimensionale",
+      "chef": {
+        "name": "Asteria Nova",
+        "alias": "Asteria",
+        "background": "Proveniente da orizzonti cosmici dove le galassie danzano armoniosamente, ha trasformato la sua essenza cosmica in arte culinaria.",
+        "specialSkills": {
+          "Psionica": "III",
+          "Temporale": "",
+          "Gravitazionale": "II",
+          "Antimateria": "",
+          "Quantistica": "",
+          "Luce": "III",
+          "LivelloTecnologico": "IV",
+          "Magnetica": "",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Ha sviluppato l'arte della manipolazione gravitazionale.",
+        "education": "Accademia Culinaria della Stella di Neutroni",
+        "experience": [
+          "Padroneggiare conoscenza tecnologica combinando tecniche antiche e innovative."
+        ]
+      },
+      "location": {
+        "environment": "Dimensionale",
+        "dimension": "Crocevia"
+      },
+      "cuisine": {
+        "type": "Cosmo-Gastronomia",
+        "inspirations": [
+          "Arte culinaria",
+          "Poesia cosmica"
+        ]
+      },
+      "established": "Durante il picco del moto cosmico interdimensionale",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "Rivisitazione del Kraken sotto Molecole",
+          "signatureDish": true,
+          "description": "Carne di Kraken esaltata da Grigliatura a Energia Stellare DiV, accompagnata da salsa di Colonia di Mycoflora e Spezie Melange.",
+          "ingredients": [
+            {
+              "name": "Carne di Kraken",
+              "origin": "Mari Dimensionali"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Foreste Stellari"
+            },
+            {
+              "name": "Spezie Melange",
+              "origin": "Pianeti Speziati"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Grigliatura a Energia Stellare DiV",
+              "effect": "Esaltazione toni salmastri"
+            },
+            {
+              "name": "Amalgamazione Sintetica Molecolare",
+              "effect": "Unione complessità sapori"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare di Comete",
+              "notes": "Completare i sapori stellari"
+            }
+          ],
+          "price": "20 crediti galattici",
+          "notes": "Offre un viaggio tra le stelle"
+        }
+      ],
+      "concept": "Un luogo dove l'arte culinaria incontra la poesia cosmica.",
+      "additionalFeatures": [
+        {
+          "feature": "Esperienza Sinfonica",
+          "description": "Ogni pasto risuona con emozioni e ricordi."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stella di Galaxia Culinaria",
+          "year": "Modello Stellare 2289"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine degli Alchimisti Gastronomici",
+          "symbol": "Pentacolo Stellare"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "2 giorni",
+        "allowedPayments": [
+          "Crediti galattici",
+          "Gemmesiderali"
+        ],
+        "specialConditions": "Abbigliamento festoso galattico richiesto"
+      },
+      "ambiance": {
+        "themes": [
+          "Cosmologia",
+          "Metafisico"
+        ],
+        "uniqueAspects": [
+          "Sinfonie interdimensionali",
+          "Installazioni di luce cosmica"
+        ]
+      }
+    }
+  ]
+}
+```

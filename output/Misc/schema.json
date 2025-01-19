@@ -1,0 +1,299 @@
+```json
+{
+  "ristorante": {
+    "documento_numero": "",
+    "chef": {
+      "nome": "",
+      "titolo": ""
+    },
+    "ambientazione": "",
+    "capitoli": [
+      {
+        "titolo": "Abilità e Licenze Richieste",
+        "contenuto": {
+          "abilità": [
+            {
+              "nome": "Psionica",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 2,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 3,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 4,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 5,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Temporale",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 2,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 3,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Gravitazionale",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 2,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 3,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Antimateria",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Magnetica",
+              "livelli": [
+                {
+                  "numero": 0,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Quantistica",
+              "livelli": [
+                {
+                  "numero": "",
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Luce",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 2,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 3,
+                  "descrizione": ""
+                }
+              ]
+            },
+            {
+              "nome": "Livello di Sviluppo Tecnologico",
+              "livelli": [
+                {
+                  "numero": 1,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 2,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 3,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 4,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 5,
+                  "descrizione": ""
+                },
+                {
+                  "numero": 6,
+                  "descrizione": ""
+                },
+                {
+                  "numero": "6+",
+                  "descrizione": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "titolo": "Gli Ordini",
+        "contenuto": [
+          {
+            "nome": "Ordine della Galassia di Andromeda",
+            "descrizione": ""
+          },
+          {
+            "nome": "Ordine dei Naturalisti",
+            "descrizione": ""
+          },
+          {
+            "nome": "Ordine degli Armonisti",
+            "descrizione": ""
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche di Preparazione",
+        "contenuto": [
+          {
+            "nome": "Marinatura",
+            "tecniche": [
+              {
+                "nome": "Marinatura a Infusione Gravitazionale",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              },
+              {
+                "nome": "Marinatura Temporale Sincronizzata",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          },
+          {
+            "nome": "Affumicatura",
+            "tecniche": [
+              {
+                "nome": "Affumicatura a Stratificazione Quantica",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          },
+          {
+            "nome": "Fermentazione",
+            "tecniche": [
+              {
+                "nome": "Fermentazione Quantica a Strati Multiversali",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche di Cottura",
+        "contenuto": [
+          {
+            "nome": "Bollitura",
+            "tecniche": [
+              {
+                "nome": "Ebollizione Magneto-Cinetica Pulsante",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          },
+          {
+            "nome": "Grigliare",
+            "tecniche": [
+              {
+                "nome": "Grigliatura a Energia Stellare DiV",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          },
+          {
+            "nome": "Forno",
+            "tecniche": [
+              {
+                "nome": "Cottura al Forno con Paradosso Temporale Cronospeculare",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titolo": "Tecniche Avanzate",
+        "contenuto": [
+          {
+            "nome": "Decostruzione",
+            "tecniche": [
+              {
+                "nome": "Decostruzione Atomica a Strati Energetici",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          },
+          {
+            "nome": "Sferificazione",
+            "tecniche": [
+              {
+                "nome": "Sferificazione a Gravità Psionica Variabile",
+                "descrizione": "",
+                "vantaggi": "",
+                "svantaggi": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+```

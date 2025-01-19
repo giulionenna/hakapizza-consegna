@@ -1,0 +1,688 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Essenza dell'Infinito",
+      "galaxy": "Via Lattea",
+      "planet": "Ego",
+      "chef": {
+        "name": "Luna Celestini",
+        "alias": "Curatrice dell'Esperienza Gustativa Universale",
+        "background": "Proveniente da una modesta colonia ai margini della Via Lattea",
+        "specialSkills": {
+          "Psionica": "IV",
+          "Temporale": "III",
+          "Gravitazionale": "1",
+          "Antimateria": "0",
+          "Quantistica": "8",
+          "Luce": "II",
+          "LivelloTecnologico": "V",
+          "Magnetica": "1",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Creazione di esperienze multidimensionali attraverso i suoi piatti",
+        "education": "Culinaria extraterrestre avanzata",
+        "experience": [
+          "Percezione dell'essenza degli ingredienti",
+          "Integrazione delle memorie nei piatti"
+        ]
+      },
+      "location": {
+        "environment": "Cuore dell'universo",
+        "dimension": "Multidimensionale"
+      },
+      "cuisine": {
+        "type": "Cucina multidimensionale",
+        "inspirations": [
+          "Tradizioni millenarie",
+          "Tecniche innovative"
+        ]
+      },
+      "established": "99",
+      "technologyLevel": "V",
+      "menu": [
+        {
+          "dish_name": "Rinascita Cosmica",
+          "signatureDish": true,
+          "description": "Sinfonia di sapori che risuona con l'essenza universale.",
+          "ingredients": [
+            {
+              "name": "Frammenti di Supernova",
+              "origin": "Galassia delle Stelle Cadenti"
+            },
+            {
+              "name": "Alghe Bioluminescenti",
+              "origin": "Oceani di Sirena IX"
+            },
+            {
+              "name": "Radici di Singolarità",
+              "origin": "Giardino delle Singolarità"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Paludi di Idrelia"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi di Fenice Stelleare"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Campi di Stellarion"
+            },
+            {
+              "name": "Nettare di Sirena",
+              "origin": "Sorgenti di Sirena"
+            },
+            {
+              "name": "Frutti del Diavolo",
+              "origin": "Giardini del Diavolo"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Taglio Sinaptico Biomimetico",
+              "effect": "Integra le emozioni nell'essenza del piatto"
+            },
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Amplifica la maturazione dei sapori"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Cosmico",
+              "notes": "Risuona con l'esperienza multidimensionale del piatto"
+            }
+          ],
+          "price": "150 Crediti Galattici",
+          "notes": "Un'esperienza sensoriale unica."
+        },
+        {
+          "dish_name": "Il Rapsodo Celestiale",
+          "signatureDish": true,
+          "description": "Danza di sapori nello spazio-tempo orchestrata dalla chef.",
+          "ingredients": [
+            {
+              "name": "Shard di Materia Oscura",
+              "origin": "Caverne di Antimateria"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Foreste Micotiche"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi di Fenice Stelleare"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Forni Stellari"
+            },
+            {
+              "name": "Gnocchi del Crepuscolo",
+              "origin": "Cucine del Tramonto"
+            },
+            {
+              "name": "Biscotti della Galassia",
+              "origin": "Caffetteria Galattica"
+            },
+            {
+              "name": "Funghi Orbitali",
+              "origin": "Stazioni Spaziali"
+            },
+            {
+              "name": "Essenza di Vuoto",
+              "origin": "Abyssi Galattici"
+            },
+            {
+              "name": "Sashimi di Magicarp",
+              "origin": "Oceani Eldoriani"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Saltare in Padella Realtà Energetiche Parallele",
+              "effect": "Trasforma l'essenza dei sapori"
+            },
+            {
+              "name": "Cottura a Vapore Risonante Simbiotico",
+              "effect": "Rafforza l'interazione tra sapori"
+            },
+            {
+              "name": "Affumicatura Temporale Risonante",
+              "effect": "Mappe temporali dei sapori"
+            },
+            {
+              "name": "Affumicatura a Stratificazione Quantica",
+              "effect": "Sapori in stati multipli"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Infusione di Vuoto",
+              "notes": "Esalta le sfumature oscure del piatto"
+            }
+          ],
+          "price": "200 Crediti Galattici",
+          "notes": "Esperienza temporale straordinaria."
+        },
+        {
+          "dish_name": "Bistecca Cacofonica dell'Infinito",
+          "signatureDish": false,
+          "description": "Creazione che sfida la percezione del gusto.",
+          "ingredients": [
+            {
+              "name": "Carne di Kraken",
+              "origin": "Profondità di Atlantix"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Forni Abissali"
+            },
+            {
+              "name": "Frammenti di Supernova",
+              "origin": "Galassia delle Stelle Cadenti"
+            },
+            {
+              "name": "Alghe Bioluminescenti",
+              "origin": "Oceani di Sirena IX"
+            },
+            {
+              "name": "Farina di Nettuno",
+              "origin": "Campi Nettuniani"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Covoni Solari"
+            },
+            {
+              "name": "Sale Temporale",
+              "origin": "Miniere Temporali"
+            },
+            {
+              "name": "Pickle Rick Croccante",
+              "origin": "Dimensione di Cartoonia"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Connetti sapori a emozioni"
+            },
+            {
+              "name": "Affumicatura a Stratificazione Quantica",
+              "effect": "Sapori in stati multipli"
+            },
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Amplifica la maturazione dei sapori"
+            },
+            {
+              "name": "Cottura a Vapore Risonante Simbiotico",
+              "effect": "Rafforza l'interazione tra sapori"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Birra dell'Oscurità",
+              "notes": "Amplifica la percezione della carne"
+            }
+          ],
+          "price": "180 Crediti Galattici",
+          "notes": "Esperienza principesca nei sapori dell'infinito."
+        },
+        {
+          "dish_name": "Galassia di Sapori: Il Viaggio Senza Tempo",
+          "signatureDish": true,
+          "description": "Esperienza gustativa multidimensionale.",
+          "ingredients": [
+            {
+              "name": "Shard di Materia Oscura",
+              "origin": "Caverne di Antimateria"
+            },
+            {
+              "name": "Foglie di Mandragora",
+              "origin": "Boschi Stregati"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Campi Stellari"
+            },
+            {
+              "name": "Fibra di Sintetex",
+              "origin": "Laboratori di Neo-Tessitura"
+            },
+            {
+              "name": "Spaghi del Sole",
+              "origin": "Covoni Solari"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Forni Stellari"
+            },
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Campi di Tutteore"
+            },
+            {
+              "name": "Muffa Lunare",
+              "origin": "Caverne Lunari"
+            },
+            {
+              "name": "Chocobo Wings",
+              "origin": "Foreste Celestiali"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Connetti sapori a emozioni"
+            },
+            {
+              "name": "Modellatura Onirica Tetrazionale",
+              "effect": "Forma sogni culinari"
+            },
+            {
+              "name": "Fermentazione Quantico Biometrica",
+              "effect": "Maturazione unica dello stato"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Essenza di Stelle Fuggitive",
+              "notes": "Completa l'armonia dei sapori"
+            }
+          ],
+          "price": "250 Crediti Galattici",
+          "notes": "Viaggio gustativo senza fine."
+        },
+        {
+          "dish_name": "Pizza Cosmica all'Essenza di Drago con Nebbia Arcobaleno e Funghi Orbitali",
+          "signatureDish": false,
+          "description": "Esplosione di colori e sapori.",
+          "ingredients": [
+            {
+              "name": "Cristalli di Nebulite",
+              "origin": "Caverne di Nebulite"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Paludi di Idrelia"
+            },
+            {
+              "name": "Carne di Drago",
+              "origin": "Montagne dei Draghi"
+            },
+            {
+              "name": "Carne di Balena spaziale",
+              "origin": "Oceani Galattici"
+            },
+            {
+              "name": "Granuli di Nebbia Arcobaleno",
+              "origin": "Laghi Arcobaleno"
+            },
+            {
+              "name": "Biscotti della Galassia",
+              "origin": "Caffetteria Galattica"
+            },
+            {
+              "name": "Amido di Stellarion",
+              "origin": "Campi di Stellarion"
+            },
+            {
+              "name": "Funghi Orbitali",
+              "origin": "Stazioni Spaziali"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Campi Tachionici"
+            },
+            {
+              "name": "Latte+",
+              "origin": "Dairyland Plus"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura a Stratificazione Quantica",
+              "effect": "Sapori in stati multipli"
+            },
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Connetti sapori a emozioni"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Succo di Galassia",
+              "notes": "Aumenta l'energia cromatica del piatto"
+            }
+          ],
+          "price": "220 Crediti Galattici",
+          "notes": "Esperienza visiva e gustativa unica."
+        },
+        {
+          "dish_name": "Mycoflora con Polvere di Stelle Sbagliato",
+          "signatureDish": false,
+          "description": "Sinfonia cosmica di sapori.",
+          "ingredients": [
+            {
+              "name": "Polvere di Stelle",
+              "origin": "Miniere di Stelle"
+            },
+            {
+              "name": "Colonia di Mycoflora",
+              "origin": "Foreste Micotiche"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Paludi di Idrelia"
+            },
+            {
+              "name": "Lacrime di Andromeda",
+              "origin": "Bacini Andromediani"
+            },
+            {
+              "name": "Essenza di Speziaria",
+              "origin": "Giardini Speziati"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Decostruzione Ancestrale",
+              "effect": "Racconta storie nei sapori"
+            },
+            {
+              "name": "Amalgamazione Sintetica Molecolare",
+              "effect": "Fusiona molecole sensoriali"
+            },
+            {
+              "name": "Fermentazione Quantico Biometrica",
+              "effect": "Maturazione unica dello stato"
+            },
+            {
+              "name": "Bollitura Termografica a Rotazione Veloce",
+              "effect": "Accentuazione degli aromi"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nebulosa Mistica",
+              "notes": "Angolazioni esoteriche dei sapori"
+            }
+          ],
+          "price": "170 Crediti Galattici",
+          "notes": "Ricco di storia e di sapori."
+        },
+        {
+          "dish_name": "Nebulosa di Sapori dell'Infinito",
+          "signatureDish": true,
+          "description": "Capolavoro gastronomico che trasforma il tempo e lo spazio.",
+          "ingredients": [
+            {
+              "name": "Lattuga Namecciana",
+              "origin": "Orti di Namecc"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Campi Stellari"
+            },
+            {
+              "name": "Carne di Xenodonte",
+              "origin": "Pianure di Xenon"
+            },
+            {
+              "name": "Plasma Vitale",
+              "origin": "Pozzi Vitali"
+            },
+            {
+              "name": "Nduja Fritta Tanto",
+              "origin": "Cucine del Sud-Andromeda"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Congelamento Bio-Luminiscente Sincronico",
+              "effect": "Presenta freschezza bertempale"
+            },
+            {
+              "name": "Saltare in Padella Realtà Energetiche Parallele",
+              "effect": "Trasforma l'essenza dei sapori"
+            },
+            {
+              "name": "Saltare in Padella Classica",
+              "effect": "Intensifica sapori tradizionali"
+            },
+            {
+              "name": "Fermentazione Quantico Biometrica",
+              "effect": "Maturazione unica dello stato"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Succo di Stelle",
+              "notes": "Perfetto per il bilanciamento della nebulosa"
+            }
+          ],
+          "price": "260 Crediti Galattici",
+          "notes": "Culminazione della cucina quantistica."
+        },
+        {
+          "dish_name": "Sinfonia dell'Infinito: Un Viaggio Gnodale tra Terra e Universi",
+          "signatureDish": false,
+          "description": "Ode culinaria all'infinito.",
+          "ingredients": [
+            {
+              "name": "Radici di Gravità",
+              "origin": "Giardini Gravitali"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi di Fenice Stelleare"
+            },
+            {
+              "name": "Carne di Mucca",
+              "origin": "Praterie di Bovinae"
+            },
+            {
+              "name": "Carne di Kraken",
+              "origin": "Profondità di Atlantix"
+            },
+            {
+              "name": "Lacrime di Andromeda",
+              "origin": "Bacini Andromediani"
+            },
+            {
+              "name": "Essenza di Speziaria",
+              "origin": "Giardini Speziati"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Connetti sapori a emozioni"
+            },
+            {
+              "name": "Affumicatura Temporale Risonante",
+              "effect": "Mappe temporali dei sapori"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir d'Infinito",
+              "notes": "Accompagna il viaggio sensoriale"
+            }
+          ],
+          "price": "240 Crediti Galattici",
+          "notes": "Intreccio di sapori cosmici."
+        },
+        {
+          "dish_name": "Tris di Verdure con Xenodonte",
+          "signatureDish": false,
+          "description": "Capolavoro che fonde sapienza antica e innovazione futuristica.",
+          "ingredients": [
+            {
+              "name": "Cristalli di Memoria",
+              "origin": "Miniere della Memoria"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Giardini Gravitali"
+            },
+            {
+              "name": "Foglie di Mandragora",
+              "origin": "Boschi Stregati"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Campi Stellari"
+            },
+            {
+              "name": "Carne di Xenodonte",
+              "origin": "Pianure di Xenon"
+            },
+            {
+              "name": "Fibra di Sintetex",
+              "origin": "Laboratori di Neo-Tessitura"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Forni Abissali"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Campi Tachionici"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Modellatura Onirica Tetrazionale",
+              "effect": "Forma sogni culinari"
+            },
+            {
+              "name": "Idro-Cristallizzazione Sonora Quantistica",
+              "effect": "Cristallizzazione degli aromi"
+            },
+            {
+              "name": "Fermentazione Quantico Biometrica",
+              "effect": "Maturazione unica dello stato"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Tè di Nebulosa",
+              "notes": "Perfetto con le sfumature vegetali"
+            }
+          ],
+          "price": "160 Crediti Galattici",
+          "notes": "Innovazione al crocevia di tempo e spazio."
+        },
+        {
+          "dish_name": "Falso Risotto dell'Infinito Multiverso",
+          "signatureDish": true,
+          "description": "Intreccia tradizione, innovazione e la magia dell'universo.",
+          "ingredients": [
+            {
+              "name": "Cristalli di Memoria",
+              "origin": "Miniere della Memoria"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi di Fenice Stelleare"
+            },
+            {
+              "name": "Carne di Balena spaziale",
+              "origin": "Oceani Galattici"
+            },
+            {
+              "name": "Granuli di Nebbia Arcobaleno",
+              "origin": "Laghi Arcobaleno"
+            },
+            {
+              "name": "Farina di Nettuno",
+              "origin": "Campi Nettuniani"
+            },
+            {
+              "name": "Funghi Orbitali",
+              "origin": "Stazioni Spaziali"
+            },
+            {
+              "name": "Spezie Melange",
+              "origin": "Giardini Melange"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Congelamento Bio-Luminiscente Sincronico",
+              "effect": "Presenta freschezza bertempale"
+            },
+            {
+              "name": "Fermentazione Psionica Energetica",
+              "effect": "Sapori psionici in fusione"
+            },
+            {
+              "name": "Saltare in Padella Realtà Energetiche Parallele",
+              "effect": "Trasforma l'essenza dei sapori"
+            },
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Amplifica la maturazione dei sapori"
+            },
+            {
+              "name": "Taglio Sinaptico Biomimetico",
+              "effect": "Integra le emozioni nell'essenza del piatto"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Cristalli Liquidi",
+              "notes": "Intensifica e completa i sapori complessi"
+            }
+          ],
+          "price": "230 Crediti Galattici",
+          "notes": "Combinazione gustativa senza pari."
+        }
+      ],
+      "concept": "Creare esperienze che esistono oltre il tempo e lo spazio attraverso la cucina.",
+      "additionalFeatures": [
+        {
+          "feature": "Commensali Multidimensionali",
+          "description": "Piatti che si adattano a diverse dimensioni e percezioni."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Premio Cucina Multiversale",
+          "year": "101"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Alleanza degli Chef Universali",
+          "symbol": "Sigillo dell'Infinito"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "2 settimane",
+        "allowedPayments": [
+          "Crediti Galattici",
+          "Baratti di Materia Oscura"
+        ],
+        "specialConditions": "Identificazione di esploratore dimensionale richiesta."
+      },
+      "ambiance": {
+        "themes": [
+          "Galattico",
+          "Multisensoriale",
+          "Temporalmente Sincronico"
+        ],
+        "uniqueAspects": [
+          "Esperienze di sapore ad evoluzione continua",
+          "Interazione tra materia e coscienza"
+        ]
+      }
+    }
+  ]
+}
+```

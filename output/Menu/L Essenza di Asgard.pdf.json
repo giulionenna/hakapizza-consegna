@@ -1,0 +1,165 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Essenza di Asgard",
+      "galaxy": "Via Lattea",
+      "planet": "Asgard",
+      "chef": {
+        "name": "Palissandro Luminetti",
+        "alias": "Sandro",
+        "background": "Connessione psichica certificata con ingredienti mitici, maestro della cucina quantistica e universale",
+        "specialSkills": {
+          "Psionica": "II",
+          "Temporale": "I",
+          "Gravitazionale": "0",
+          "Antimateria": "I",
+          "Quantistica": "13",
+          "Luce": "I",
+          "LivelloTecnologico": "VII",
+          "Magnetica": "0",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Notoria capacità di superare le leggi asgardiane della cucina",
+        "education": "Addestramento in arti culinarie multidimensionali presso l'Accademia degli Dei di Asgard",
+        "experience": [
+          "Maestro della cucina universale presso L'Essenza di Asgard",
+          "Specialista nella superposizione dei piatti in molteplici stati simultanei"
+        ]
+      },
+      "location": {
+        "environment": "Regno scintillante interdimensionale di Asgard",
+        "dimension": "Multiverso"
+      },
+      "cuisine": {
+        "type": "Fusion Divina",
+        "inspirations": [
+          "Mitologia nordica",
+          "Tecnica quantistica",
+          "Essenze cosmiche"
+        ]
+      },
+      "established": "Anno mitico",
+      "technologyLevel": "Avanzatissimo",
+      "menu": [
+        {
+          "dish_name": "Quadrifonia Cosmica",
+          "signatureDish": false,
+          "description": "Sinfonia di Sapori e Dimensioni, un viaggio attraverso gusti e sensazioni provenienti da universi paralleli",
+          "ingredients": [
+            {
+              "name": "Polvere di Stelle",
+              "origin": "Nebulosa Stellare"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Galassia Oscura"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Amalgamazione Sintetica Molecolare",
+              "effect": "Combina sapori intangibili in una composizione unica"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare d'Aurora",
+              "notes": "Riflessi eterei, perfetto per accompagnare esperienze multisensoriali"
+            }
+          ],
+          "price": "150 Crediti Galattici",
+          "notes": "Un'esperienza multisensoriale straordinaria"
+        },
+        {
+          "dish_name": "Sinfonia Cosmica di Terre e Stelle",
+          "signatureDish": false,
+          "description": "Tributo all'universo con suoni, sapori e sfumature intangibili",
+          "ingredients": [
+            {
+              "name": "Baccacedro",
+              "origin": "Terre di Niflheim"
+            },
+            {
+              "name": "Carne di Xenodonte",
+              "origin": "Galassia Remota"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Amplifica la percezione dei sapori attraverso un viaggio sensoriale"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir di Stelle",
+              "notes": "Accenti fruttati, ideale con piatti spaziali"
+            }
+          ],
+          "price": "180 Crediti Galattici",
+          "notes": "Ideale per esploratori di galassie gastronomiche"
+        },
+        {
+          "dish_name": "Lumière Cosmica",
+          "signatureDish": true,
+          "description": "Viaggio gastronomico che sfida la percezione con Funghi Orbitali e Radici di Gravità",
+          "ingredients": [
+            {
+              "name": "Polvere di Pulsar",
+              "origin": "Nucleo di Pulsar"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Amalgamazione Sintetica Molecolare",
+              "effect": "Danza di sapori che espande la comprensione culinaria"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Cosmico",
+              "notes": "Raffinato e complesso, accompagna il viaggio nel gusto"
+            }
+          ],
+          "price": "200 Crediti Galattici",
+          "notes": "Un portale verso l'universo del gusto"
+        }
+      ],
+      "concept": "Ristorante come tempio e laboratorio stellare",
+      "additionalFeatures": [
+        {
+          "feature": "Tavoli geometrici sacri",
+          "description": "Creano campi di risonanza che amplificano l'esperienza sensoriale"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Galactic Culinary Masterpiece",
+          "year": "Anno Cosmico"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Accademia Galattica dei Sapori",
+          "symbol": "Simbolo di Supernova"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "1 mese galattico",
+        "allowedPayments": ["Crediti Galattici", "Cristalli Asgardiani"],
+        "specialConditions": "Solo per viaggiatori con esperienza interdimensionale"
+      },
+      "ambiance": {
+        "themes": [
+          "Mitologia Nordica",
+          "Alchimia Quantistica"
+        ],
+        "uniqueAspects": [
+          "Viaggio intergalattico attraverso il sapore"
+        ]
+      }
+    }
+  ]
+}
+```

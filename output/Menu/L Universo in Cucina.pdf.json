@@ -1,0 +1,186 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "L'Universo in Cucina",
+      "galaxy": "Via Lattea",
+      "planet": "Klyntar",
+      "chef": {
+        "name": "Crina Cosmi",
+        "alias": "Cosmo Maestro",
+        "background": "Umili origini, scoperta abilità culinaria psionica a 3 anni",
+        "specialSkills": {
+          "Psionica": "II",
+          "Temporale": "I",
+          "Gravitazionale": "II",
+          "Antimateria": "I",
+          "Quantistica": "Gestione undici dimensioni",
+          "Luce": "I",
+          "LivelloTecnologico": "Singolarità Tecnologica",
+          "Magnetica": "0",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Raggiungimento della singolarità tecnologica",
+        "education": "Certificazioni varie nelle arti culinarie quantistiche e cosmiche",
+        "experience": ["Sviluppo tecniche culinarie avanzate su Klyntar", "Fondazione di L'Universo in Cucina"]
+      },
+      "location": {
+        "environment": "Energia cosmica e arte culinaria fusa",
+        "dimension": "Dimensione Multiversale"
+      },
+      "cuisine": {
+        "type": "Intergalattica",
+        "inspirations": ["Mondi remoti", "Nuove dimensioni"]
+      },
+      "established": "3035 dC",
+      "technologyLevel": "VI+",
+      "menu": [
+        {
+          "dish_name": "Galassia di Sapori Interstellari",
+          "signatureDish": true,
+          "description": "Sinfonia di gnocchi in mare di nebbia arcobaleno, esaltato da un tocco di baccacedro",
+          "ingredients": [
+            {
+              "name": "Gnocchi del Crepuscolo",
+              "origin": "Dimensione Crepuscolare"
+            },
+            {
+              "name": "Granuli di Nebbia Arcobaleno",
+              "origin": "Nebulosa Arcobaleno"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+              "effect": "Preservazione del colore e del sapore"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare di Sirena",
+              "notes": "Aromatico e incantevole"
+            }
+          ],
+          "price": "100 unità interstellari",
+          "notes": "Piatti cambiano sapore a seconda della dimensione osservata"
+        },
+        {
+          "dish_name": "Galassia Aurorale",
+          "signatureDish": false,
+          "description": "Zuppa vellutata con cristalli di nebulite e involtino di xenodonte",
+          "ingredients": [
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Foreste Plasmatiche"
+            },
+            {
+              "name": "Cristalli di Nebulite",
+              "origin": "Miniere di Nebula"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura a Forno Dinamico Inversionale",
+              "effect": "Caramellizzazione bilaterale"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino di Stelle Danzevoli",
+              "notes": "Complementa i sapori galattici"
+            }
+          ],
+          "price": "150 unità interstellari",
+          "notes": "Un'esperienza eterea di luci e sapori cangianti"
+        },
+        {
+          "dish_name": "Galassia di Sapori: L'Eterno Ritorno",
+          "signatureDish": false,
+          "description": "Timballo di riso Cassandriano contornato da carne di balena spaziale e drago",
+          "ingredients": [
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Campi di Cassandra"
+            },
+            {
+              "name": "Carne di Balena Spaziale",
+              "origin": "Oceni Spaziali"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura Sottovuoto Frugale Energeticamente Negativa",
+              "effect": "Esaltazione dei profumi marini e draconici"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Acqua di Cometa",
+              "notes": "Rinfrescante e leggero"
+            }
+          ],
+          "price": "200 unità interstellari",
+          "notes": "Un piatto che racconta l'equilibrio cosmico"
+        },
+        {
+          "dish_name": "Rivelazione del Multiverso",
+          "signatureDish": false,
+          "description": "Filetto di Kraken su lastra di pane degli abissi, incorniciato da petali di baccacedro",
+          "ingredients": [
+            {
+              "name": "Carne di Kraken",
+              "origin": "Abissi Sottomarini"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Forni Marini"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura tramite Big Bang Microcosmico",
+              "effect": "Infusione di aromi universali"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Tè di Luna",
+              "notes": "Note floreali che stimolano l'introspezione"
+            }
+          ],
+          "price": "180 unità interstellari",
+          "notes": "Un'esplorazione sensoriale interdimensionale"
+        }
+      ],
+      "concept": "Un'esperienza culinaria che unisce magia e tecnologia per esplorare le frontiere del gusto",
+      "additionalFeatures": [
+        {
+          "feature": "Laboratorio sensoriale",
+          "description": "Percezione ampliata tramite esperienze multisensoriali"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Premio Intergalattico per l'Innovazione Culinaria",
+          "year": "3040"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine dei Cuochi del Multiverso",
+          "symbol": "Fiamma Stellare"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "1 mese",
+        "allowedPayments": ["U-Crediti", "GalatCoin"],
+        "specialConditions": "Apertura del terzo occhio consigliata per una totale esperienza"
+      },
+      "ambiance": {
+        "themes": ["Viaggio cosmico", "Espansione mentale"],
+        "uniqueAspects": ["Illuminazione dinamica da galassie lontane"]
+      }
+    }
+  ]
+}
+```

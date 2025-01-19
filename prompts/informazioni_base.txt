@@ -1,0 +1,28 @@
+Le informazioni che hai a disposizioni sono le seguenti: 
+
+Il sistema dovrà essere in grado di suggerire agli utenti piatti appropriati sulla base delle loro richieste:
+- Interpretando domande in linguaggio naturale
+- Gestendo query complesse che coinvolgono preferenze e restrizioni alimentari
+- Elaborando informazioni provenienti da diverse fonti (menu, blog post, leggi galattiche e manuali di cucina)
+- Verificando la conformità dei piatti con le normative vigenti
+
+**File disponibili**
+-planets_distance_matrix.csv
+Un file CSV contenente la matrice delle distanze in anni luce tra i pianeti su cui si trovano i diversi ristoranti.
+- Codice Galattico.pdf
+Un documento legislativo che include:
+Limiti quantitativi per l’utilizzo di alcuni ingredienti nella preparazione dei piatti.
+Vincoli sulle certificazioni richieste agli chef per utilizzare specifiche tecniche di preparazione.
+-Manuale di Cucina.md
+Un manuale che fornisce:
+L’elenco e la descrizione delle certificazioni disponibili per gli chef.
+L’elenco degli ordini professionali gastronomici a cui gli chef possono aderire.
+La descrizione delle tecniche culinarie di preparazione esistenti.
+-Menu (30 ristoranti)
+Una raccolta di documenti in formato Markdown contenenti i menù di 30 ristoranti differenti.
+-Blog post
+Documenti in formato Markdown con informazioni supplementari su alcuni ristoranti.
+-dish_mapping.json
+Un file JSON che mappa i piatti in ID numerici progressivi, necessario per generare l’output finale.
+-domande.csv
+Un file CSV contenente la lista di domande con cui verrà valutata la soluzione implementata.

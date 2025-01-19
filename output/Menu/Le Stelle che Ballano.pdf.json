@@ -1,0 +1,123 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Le Stelle che Ballano",
+      "galaxy": "Via Lattea",
+      "planet": "Krypton",
+      "chef": {
+        "name": "Alessandra Nova",
+        "alias": "Stellar Chef",
+        "background": "Cucine gravimetriche della Stazione Spaziale Alpha Centauri",
+        "specialSkills": {
+          "Psionica": "IV",
+          "Temporale": "II",
+          "Gravitazionale": "I",
+          "Antimateria": "III",
+          "Quantistica": "5",
+          "Luce": "II",
+          "LivelloTecnologico": "III",
+          "Magnetica": "II",
+          "otherSkills": ["Cucina Interstellare", "Gastronomica Evolutiva"]
+        },
+        "culinaryAchievements": "Creatrice dei Quintetti Quantici",
+        "education": "Accademia Galattica delle Arti Culinarie",
+        "experience": ["Stella Rossa di Alpha Centauri", "Maestra di Cucina Quantica"]
+      },
+      "location": {
+        "environment": "Cristalli luminosi e paesaggi mozzafiato",
+        "dimension": "Secondo Livello"
+      },
+      "cuisine": {
+        "type": "Fusion Cosmica",
+        "inspirations": ["Cucina stellare", "Tecniche quantistiche"]
+      },
+      "established": "3012",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "Nebulosa Galattica",
+          "signatureDish": true,
+          "description": "Un'esperienza multisensoriale che trasporta nel vasto cosmo dei sapori.",
+          "ingredients": [
+            {
+              "name": "Radici di Gravità",
+              "origin": "Terreni arricchiti di energia gravitazionale"
+            },
+            {
+              "name": "Alghe Bioluminescenti",
+              "origin": "Oceani interstellari"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Nebulose distantissime"
+            },
+            {
+              "name": "Gnocchi del Crepuscolo",
+              "origin": "Laboratori del Tramonto"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Fonti temporali"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Psionica Sensoriale",
+              "effect": "Aroma affumicato unico"
+            },
+            {
+              "name": "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+              "effect": "Preserva colori e essenze"
+            },
+            {
+              "name": "Bollitura Infrasonica Armonizzata",
+              "effect": "Impregna con spezie celestiali"
+            },
+            {
+              "name": "Sferificazione a Gravità Psionica Variabile",
+              "effect": "Sfere che mutano consistenza e sapore"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare di Cometa",
+              "notes": "Corposa dolcezza con un tocco etereo"
+            }
+          ],
+          "price": "150 unità di credito galattico",
+          "notes": "Un viaggio nei meandri del cosmo del gusto"
+        }
+      ],
+      "concept": "Odissea stellare culinaria che dissolve confini tra arte culinaria, scienza e magia.",
+      "additionalFeatures": [
+        {
+          "feature": "Portale sensoriale",
+          "description": "Trasporta i commensali oltre i confini del tempo e spazio"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Galactic Culinary Excellence Award",
+          "year": "3014"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine degli Chef Psionici",
+          "symbol": "Stella Psionica"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "2 settimane",
+        "allowedPayments": ["Crediti galattici", "Baratto di conoscenze"],
+        "specialConditions": "Riservato a entità cosmiche multi-dimensionali"
+      },
+      "ambiance": {
+        "themes": ["Cosmic dance", "Stellar harmony"],
+        "uniqueAspects": ["Musica delle sfere", "Brillio delle stelle"]
+      }
+    }
+  ]
+}
+```

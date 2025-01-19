@@ -1,0 +1,127 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Sala del Valhalla",
+      "galaxy": "Galassia del Multiverso",
+      "planet": "Asgard",
+      "chef": {
+        "name": "Alessandro Quantum",
+        "alias": "Maestro Cuciniere",
+        "background": "Maestro Cuciniere Alessandro Quantum, proveniente dal regno divino di Asgard, ha intrecciato la sua passione per la perfezione del gusto con l’arte della cucina celestiale.",
+        "specialSkills": {
+          "Psionica": "Maestro",
+          "Temporale": "Esperto",
+          "Gravitazionale": "Licenza Livello I",
+          "Antimateria": "Licenza Livello I",
+          "Quantistica": "Licenza Livello 8",
+          "Luce": "Iniziato",
+          "LivelloTecnologico": "6",
+          "Magnetica": "Intermedio",
+          "otherSkills": ["Dimensional Cooking"]
+        },
+        "culinaryAchievements": "Sviluppo di una tecnica di otto stati quantici simultanei nei piatti",
+        "education": "Apprendistato nelle cucine divine di Asgard e viaggi attraverso il multiverso",
+        "experience": ["Esperienze multidimensionali culinarie", "Interazione con chef leggendari attraverso il multiverso"]
+      },
+      "location": {
+        "environment": "Ambiente interdimensionale dove le leggi della fisica sono sfidate",
+        "dimension": "Dimensione Asgardiana"
+      },
+      "cuisine": {
+        "type": "Cucina Multidimensionale",
+        "inspirations": ["Tradizioni Asgardiane", "Enigmi del multiverso", "Arte culinaria celestiale"]
+      },
+      "established": "Anno galattico 3421",
+      "technologyLevel": "Avanzato - Livello 6",
+      "menu": [
+        {
+          "dish_name": "Pane e Carne Rivisitato",
+          "signatureDish": true,
+          "description": "Una creazione di sapori galattici con Spaghi del Sole cotti a vapore termocinetico multiplo e Carne di Drago saltata in una padella tradizionale.",
+          "ingredients": [
+            {"name": "Frammenti di Supernova", "origin": "Stelle morenti di una galassia lontana"},
+            {"name": "Lattuga Namecciana", "origin": "Pianeta Namec"},
+            {"name": "Carne di Drago", "origin": "Mitici draghi di Asgard"},
+            {"name": "Spaghi del Sole", "origin": "Cucina solare"},
+            {"name": "Salsa Szechuan", "origin": "Dimensione Z"}
+          ],
+          "techniques": [
+            {"name": "Cottura a Vapore Termocinetica Multipla", "effect": "Esalta la calda energia solare infusa nella pasta"},
+            {"name": "Saltare in Padella Classica", "effect": "Mantiene il connubio tra innovazione e tradizione"}
+          ],
+          "pairings": [
+            {"beverage": "Idromele Interstellare", "notes": "Dolce e speziato, si abbina bene con i sapori intensi"}
+          ],
+          "price": "300 crediti cosmici",
+          "notes": "Un viaggio culinario attraverso dimensioni"
+        },
+        {
+          "dish_name": "Risotto Cosmico Multiversale",
+          "signatureDish": false,
+          "description": "Un risotto dalla consistenza impeccabile utilizzando tecniche parallele per otto stati quantici.",
+          "ingredients": [
+            {"name": "Shard di Materia Oscura", "origin": "Universo parallelo"},
+            {"name": "Carne di Xenodonte", "origin": "Flora faunistica di un pianeta lontano"},
+            {"name": "Granuli di Nebbia Arcobaleno", "origin": "Nubi arcobaleno cosmiche"}
+          ],
+          "techniques": [
+            {"name": "Grigliatura Eletro-Molecolare a Spaziatura Variabile", "effect": "Aroma e morbidezza interstellare"}
+          ],
+          "pairings": [
+            {"beverage": "Vino del Vuoto", "notes": "Enhances the smoky and vibrant flavors of the dish"}
+          ],
+          "price": "250 crediti cosmici",
+          "notes": "Una nuance di sapori paralleli"
+        },
+        {
+          "dish_name": "Il Risveglio del Multiverso",
+          "signatureDish": false,
+          "description": "Esperienza multisensoriale con Radici di Singolarità e Alghe Bioluminescenti.",
+          "ingredients": [
+            {"name": "Radici di Singolarità", "origin": "Singolarità spazio-temporali"},
+            {"name": "Alghe Bioluminescenti", "origin": "Mare cosmico luminoso"},
+            {"name": "Granuli di Nebbia Arcobaleno", "origin": "Celestial rainbow-clouds"}
+          ],
+          "techniques": [
+            {"name": "Cottura Sottovuoto Frugale Energeticamente Negativa", "effect": "Preserva nutrienti essenziali"}
+          ],
+          "pairings": [
+            {"beverage": "Tè della Nebulosa", "notes": "Calming and complements the earthy textures"}
+          ],
+          "price": "350 crediti cosmici",
+          "notes": "Ti connette con il cosmo"
+        }
+      ],
+      "concept": "Un'esplorazione delle infinite sfaccettature del gusto guidata dalla maestria culinaria",
+      "additionalFeatures": [
+        {
+          "feature": "Esperienze Interattive",
+          "description": "I commensali possono interagire con visioni culinarie attraverso il multiverso"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stella Multidimensionale",
+          "year": "Anno galattico 3440"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine dei Cuochi Cosmogoni",
+          "symbol": "Sfera Celestiale"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "3 giorni standard",
+        "allowedPayments": ["crediaura", "cristalli cosmici"],
+        "specialConditions": "Prenotazione flessibile con opzioni di viaggio dimensionale"
+      },
+      "ambiance": {
+        "themes": ["Divine Myth", "Interdimensional Wonder"],
+        "uniqueAspects": ["Muri che raccontano leggende ancestrali", "Atmosfera che trascende il tempo"]
+      }
+    }
+  ]
+}
+```

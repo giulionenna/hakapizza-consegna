@@ -1,0 +1,241 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Ristorante delle Dune Stellari",
+      "galaxy": "Via Lattea",
+      "planet": "Arrakis",
+      "chef": {
+        "name": "Alessandro Temporini",
+        "alias": "Maestro del Multiverso",
+        "background": "Iniziò dopo una tragedia e scoperta di poteri psionici.",
+        "specialSkills": {
+          "Psionica": "IV",
+          "Temporale": "III",
+          "Gravitazionale": "I",
+          "Antimateria": "I",
+          "Quantistica": "12",
+          "Luce": "III",
+          "LivelloTecnologico": "II",
+          "Magnetica": "I",
+          "otherSkills": ["Manipolazione del tempo", "Controllo della luce"]
+        },
+        "culinaryAchievements": "Pionieristico uso dei poteri psionici in cucina.",
+        "education": "Addestramento sotto un critto-mentore su Arrakis.",
+        "experience": ["Manipolazione delle sabbie del tempo", "Cucina multidimensionale"]
+      },
+      "location": {
+        "environment": "Desertica",
+        "dimension": "Standard"
+      },
+      "cuisine": {
+        "type": "Cucina cosmica multidimensionale",
+        "inspirations": ["Fusioni di sapori e dimensioni", "Tradizioni interstellari"]
+      },
+      "established": "3025",
+      "technologyLevel": "Avanzato",
+      "menu": [
+        {
+          "dish_name": "Sinfonia di Cristalli e Rigenerazione",
+          "signatureDish": true,
+          "description": "Un viaggio culinario con riso brillante di Cassandra, uova di Fenice, liane di Plasmodio e radici di Gravità equilibrati da shard di Prisma Stellare e funghi dell’Etere.",
+          "ingredients": [
+            {
+              "name": "Shard di Prisma Stellare",
+              "origin": "Nebulosa Antares"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Pianeta Graviton"
+            },
+            {
+              "name": "Liane di Plasmodio",
+              "origin": "Foresta di Plasmoria"
+            },
+            {
+              "name": "Uova di Fenice",
+              "origin": "Nidi di Fenice Celestiale"
+            },
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Campi di Cassandra Prime"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Forde degli Abissi"
+            },
+            {
+              "name": "Funghi dell’Etere",
+              "origin": "Grotta Eterica"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Campo Temporale"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura a Vapore Ecodinamico Bilanciato",
+              "effect": "Mantiene la lucentezza e il nutrimento"
+            },
+            {
+              "name": "Marinatura Sotto Zero a Polarità Inversa",
+              "effect": "Assorbe l’equilibrio dei sapori universali"
+            },
+            {
+              "name": "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+              "effect": "Esalta consistenza e complessità"
+            },
+            {
+              "name": "Cryo-Tessitura Energetica Polarizzata",
+              "effect": "Mantiene la freschezza ineguagliabile"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Infuso di Stelle Cadenti",
+              "notes": "Complementa con note fruttate e minerali"
+            }
+          ],
+          "price": "150 Crediti Galattici",
+          "notes": "Un'esperienza che trascende tempo e spazio."
+        },
+        {
+          "dish_name": "Stella Nova",
+          "signatureDish": true,
+          "description": "Una sinfonia di sapori con base di fusilli del vento, affumicati e accompagnati da crostini al Pane di Luce e filetto di Fibra di Sintetex.",
+          "ingredients": [
+            {
+              "name": "Cristalli di Nebulite",
+              "origin": "Caverne di Nebula"
+            },
+            {
+              "name": "Foglie di Nebulosa",
+              "origin": "Gardenia Galaxia"
+            },
+            {
+              "name": "Fibra di Sintetex",
+              "origin": "Coltivazioni Biotex"
+            },
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Montagne Ventose"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Forde degli Abissi"
+            },
+            {
+              "name": "Pane di Luce",
+              "origin": "Forni Solari"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Bosco Incantato"
+            },
+            {
+              "name": "Erba Pipa",
+              "origin": "Pianeti Erbacei"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura a Stratificazione Quantica",
+              "effect": "Profumo intenso che sorge dall'interno"
+            },
+            {
+              "name": "Grigliatura a Energia Stellare DiV",
+              "effect": "Profondità di sapore terrestre e astrale"
+            },
+            {
+              "name": "Marinatura tramite Reazioni d'Antimateria Diluite",
+              "effect": "Fragranza soprannaturale e retrogusto di sogno"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino delle Nebulose",
+              "notes": "Note fruttate e leggermente terrose che coincidono con la complessità del piatto"
+            }
+          ],
+          "price": "220 Crediti Galattici",
+          "notes": "Ogni boccone è un passo verso l'infinito culinario."
+        },
+        {
+          "dish_name": "Sinfonia del Multiverso",
+          "signatureDish": false,
+          "description": "Una fusione eterea di fusilli del vento e radici di singolarità, esaltata con cristalli di memoria e foglie di mandragora.",
+          "ingredients": [
+            {
+              "name": "Cristalli di Memoria",
+              "origin": "Crono-Laboratori"
+            },
+            {
+              "name": "Foglie di Mandragora",
+              "origin": "Orto Magico"
+            },
+            {
+              "name": "Radici di Singolarità",
+              "origin": "Campi Singolari"
+            },
+            {
+              "name": "Fusilli del Vento",
+              "origin": "Montagne Ventose"
+            },
+            {
+              "name": "Plasma Vitale",
+              "origin": "Reattore di Energia Vitale"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Affumicatura Temporale Risonante",
+              "effect": "Aromi conservati nel tempo"
+            },
+            {
+              "name": "Amalgamazione Sintetica Molecolare",
+              "effect": "Fusione armonica di sapori e texture"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare di Galassia",
+              "notes": "Dolcezza mielata che avvolge e amplifica i gusti del piatto"
+            }
+          ],
+          "price": "180 Crediti Galattici",
+          "notes": "Un'esplorazione del gusto multidimensionale."
+        }
+      ],
+      "concept": "Creazioni culinarie che intrecciano realtà e sogno, passato e futuro in un ecosistema stellare.",
+      "additionalFeatures": [
+        {
+          "feature": "Proiezioni di luce dinamica",
+          "description": "Atmosfere che danzano con ogni portata"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Stella Culinaria del Multiverso",
+          "year": "3030"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine dei Maestri Culinaris",
+          "symbol": "Stella con Forchetta e Coltello Incrociati"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "3 settimane",
+        "allowedPayments": ["Crediti Galattici", "Gemme dell'Universo"],
+        "specialConditions": "Richiesta completamento di modulo mentale per l'abbinamento dei piatti."
+      },
+      "ambiance": {
+        "themes": ["Multidimensionalità", "Surrealismo"],
+        "uniqueAspects": ["Interazione psionica", "Sinfonia di luci e suoni stellari"]
+      }
+    }
+  ]
+}
+```

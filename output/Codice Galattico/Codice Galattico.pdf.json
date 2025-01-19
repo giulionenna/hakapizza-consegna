@@ -1,0 +1,191 @@
+```json
+{
+  "documentNumber": "789/12773",
+  "officialGazette": {
+    "documentCode": "789/12773",
+    "cycleDay": "67°",
+    "cosmicCycle": "789"
+  },
+  "intergalacticCouncil": {
+    "councilName": "Gran Consiglio della Federazione Intergalattica",
+    "decreeCode": "789/12773",
+    "date": "67° Giorno del Ciclo Cosmico 789",
+    "regulations": {
+      "safetyRegulations": {
+        "section": "1",
+        "groups": [
+          {
+            "groupName": "Membri dell’Ordine della Galassia di Andromeda",
+            "details": "Intolleranza al lattosio, gestire nutrizione non proveniente dalla Via Lattea."
+          },
+          {
+            "groupName": "Membri dell’Ordine dei Naturalisti",
+            "details": "Principio di Non Alterazione per preservare l'essenza originaria degli ingredienti."
+          },
+          {
+            "groupName": "Individui all’Ordine degli Armonisti",
+            "details": "Piatti entrano in sintonia con le frequenze emotive degli ospiti."
+          }
+        ]
+      }
+    }
+  },
+  "orderDefinitions": [
+    {
+      "orderName": "Ordine della Galassia di Andromeda",
+      "requirements": "Considerare l'intolleranza al lattosio per gli abitanti."
+    },
+    {
+      "orderName": "Ordine dei Naturalisti",
+      "requirements": "Applicare il Principio di Non Alterazione."
+    },
+    {
+      "orderName": "Ordine degli Armonisti",
+      "requirements": "Preparare piatti che risuonano con l'emotività."
+    }
+  ],
+  "regulatedSubstances": {
+    "limitGeneral": "5%",
+    "categories": [
+      {
+        "categoryName": "Sostanze Psicotrope e Psioniche",
+        "details": "Interazione con campi psionici, richiede attenzione nella dosatura."
+      },
+      {
+        "categoryName": "Ingredienti di Origine Mitica",
+        "details": "Derivati da creature leggendarie, richiedono considerazioni pratiche ed etiche."
+      },
+      {
+        "categoryName": "Sostanze Xenobiologiche",
+        "details": "Materiali non terrestri, con interazioni potenziali con sistemi terrestri."
+      },
+      {
+        "categoryName": "Sostanze Quantiche e Dimensionali",
+        "details": "Manifestano proprietà quantiche, necessitando precauzioni specifiche."
+      },
+      {
+        "categoryName": "Sostanze Spazio-Temporali",
+        "details": "Interagiscono con il tessuto spazio-temporale, evitando distorsioni della realtà."
+      }
+    ],
+    "substanceTable": [
+      {
+        "substanceName": "Erba Pipa",
+        "properties": {
+          "property1": "CRP: 0.89",
+          "property2": "IEI: 0.3"
+        }
+      },
+      {
+        "substanceName": "Cristalli di Memoria",
+        "properties": {
+          "property1": "CRP: 0.92",
+          "property2": "CDT: 0.2"
+        }
+      },
+      {
+        "substanceName": "Petali di Eco",
+        "properties": {
+          "property1": "CRP: 0.87",
+          "property2": "IPM: 0.6"
+        }
+      }
+    ]
+  },
+  "quantitativeLimits": {
+    "psionicLimits": {
+      "CRP": ">0.90",
+      "limit": "0.5%"
+    },
+    "mythicOrigins": {
+      "IPM": ">0.9",
+      "limit": "4%"
+    },
+    "xenoBio": {
+      "IBX": ">0.7",
+      "limit": "0.25%",
+      "mutationPotential": {
+        "mu": ">0.5",
+        "limit": "0.1%"
+      }
+    },
+    "quantumDimensional": {
+      "deltaQ": ">0.3",
+      "limit": "3%"
+    },
+    "spaceTemporal": {
+      "CDT": ">0.7",
+      "limit": "2%"
+    }
+  },
+  "licensesAndTechniques": {
+    "licenseDetails": [
+      {
+        "licenseType": "Psionica",
+        "class": "P",
+        "level": "0",
+        "description": "Acquisita ope legis per attività culinaria"
+      },
+      {
+        "licenseType": "Gravitazionale",
+        "class": "G",
+        "level": "0",
+        "description": "Acquisita ope legis per attività culinaria"
+      }
+    ],
+    "preparationTechniques": [
+      {
+        "techniqueName": "Marinatura a infusione gravitazionale",
+        "requirement": {
+          "license": "Gravitazionale",
+          "level": "II",
+          "technologyGrade": ""
+        }
+      },
+      {
+        "techniqueName": "Affumicatura a stratificazione quantica",
+        "requirement": {
+          "license": "Quantistica",
+          "level": "3",
+          "technologyGrade": "II"
+        }
+      }
+    ]
+  },
+  "sanctionsAndPenalties": {
+    "sanctionSystem": {
+      "violationType": "Violazioni limiti quantitativi sostanze psioniche",
+      "penaltyDescription": "Valutazione psionica approfondita"
+    },
+    "compositeSanctionsCalculation": {
+      "methodology": "Principio del cumulo psionico",
+      "factors": [
+        {
+          "factorType": "Numero di categorie protette",
+          "description": "Coinvolgimento di più categorie"
+        }
+      ]
+    }
+  },
+  "finalProvisions": {
+    "implementationPeriod": "1 ciclo cosmico",
+    "exemptions": {
+      "authority": "Consiglio Superiore per la Sicurezza Alimentare",
+      "consultationProcess": "Consultazione con rappresentanti dell'Ordine dei Naturalisti",
+      "considerations": "Interazioni tra normative, principi stabiliti"
+    }
+  },
+  "appendix": {
+    "compositeSanctionsMethodology": {
+      "baseEvaluation": "Valutazione base della singola violazione",
+      "multipliers": [
+        {
+          "type": "Gravità degli effetti",
+          "description": "Implicazioni sanitarie immediate"
+        }
+      ],
+      "calculationAuthority": "Dipartimento di Valutazione Penale Galattica"
+    }
+  }
+}
+```

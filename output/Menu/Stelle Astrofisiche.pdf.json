@@ -1,0 +1,160 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Stelle Astrofisiche",
+      "galaxy": "Via Lattea",
+      "planet": "Krypton",
+      "chef": {
+        "name": "Alessandro Zod-Marinetti",
+        "alias": "Chef Quantistico",
+        "background": "Illustre chef con formazione presso l'Accademia di Gastronomia Quantistica di Krypton",
+        "specialSkills": {
+          "Psionica": "Intermedia",
+          "Temporale": "Avanzato",
+          "Gravitazionale": "Esperto",
+          "Antimateria": "Esperto",
+          "Quantistica": "Esperto",
+          "Luce": "Avanzato",
+          "LivelloTecnologico": "Avanzato",
+          "Magnetica": "Intermedia",
+          "otherSkills": ["Culinaria Multidimensionale"]
+        },
+        "culinaryAchievements": "Famoso per l'inaugurazione del ristorante Gravità Inversa",
+        "education": "Accademia di Gastronomia Quantistica di Krypton",
+        "experience": [
+          "Apprendistato sotto Maestro Valkor",
+          "Esperienze presso il Centro di Ricerca Avanzata di Krypton",
+          "Inaugurazione di Gravità Inversa"
+        ]
+      },
+      "location": {
+        "environment": "Capitale vibrante sotto energia pulsante",
+        "dimension": "Standard con accessi multi-dimensionali"
+      },
+      "cuisine": {
+        "type": "Fusion Quantistica e Tradizionale Kryptoniana",
+        "inspirations": ["Culinary Sci-Fi", "Quantum Elements", "Kryptonian Traditions"]
+      },
+      "established": "3010",
+      "technologyLevel": "Ultra Avanzato",
+      "menu": [
+        {
+          "dish_name": "Viaggio Cosmico tra Mare e Stelle",
+          "signatureDish": true,
+          "description": "Un'immersione culinaria che trascende tempo e spazio.",
+          "ingredients": [
+            {
+              "name": "Carne di Balena Spaziale",
+              "origin": "Profondità cosmiche"
+            },
+            {
+              "name": "Kraken",
+              "origin": "Océani interstellari"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Regioni mitiche"
+            },
+            {
+              "name": "Lacrime di Andromeda",
+              "origin": "Costellazione di Andromeda"
+            },
+            {
+              "name": "Riso di Cassandra",
+              "origin": "Campi stellari"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Esalta consistenza e sapore"
+            },
+            {
+              "name": "Taglio a Risonanza Sonica Rigenerativa",
+              "effect": "Preserva freschezza e integrità"
+            },
+            {
+              "name": "Cottura con Microonde Entropiche Sincronizzate",
+              "effect": "Sigilla i sapori"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Stellare",
+              "notes": "Aromi fruttati con note cosmiche"
+            }
+          ],
+          "price": "120 Credits",
+          "notes": "Un'esperienza multisensoriale"
+        },
+        {
+          "dish_name": "Nebulosa di Dragone all'Essenza di Vuoto",
+          "signatureDish": false,
+          "description": "Un'opera celebrativa tra cosmo e arte gastronomica.",
+          "ingredients": [
+            {
+              "name": "Carne di Drago",
+              "origin": "Dimensione Draconica"
+            },
+            {
+              "name": "Lattuga Namecciana",
+              "origin": "Pianeta Namecc"
+            },
+            {
+              "name": "Spore Quantiche",
+              "origin": "Substrati quantici"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Bollitura Termografica a Rotazione Veloce",
+              "effect": "Cottura coreografica"
+            },
+            {
+              "name": "Sinergia elettro-osmotica programmabile",
+              "effect": "Introduce gusto etereo"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Infuso di Vuoto",
+              "notes": "Etereo con retrogusti trans-dimensionali"
+            }
+          ],
+          "price": "95 Credits",
+          "notes": "Sfida del palato"
+        }
+      ],
+      "concept": "Cucina quantistica e tradizione in un viaggio multisensoriale",
+      "additionalFeatures": [
+        {
+          "feature": "Esperienza Multisensoriale",
+          "description": "Ogni piatto coinvolge tutti i sensi"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Premio Avanguardia Culinaria",
+          "year": "3022"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Alleanza Culinaria Galattica",
+          "symbol": "Stella Incrociata"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "48 ore galattiche",
+        "allowedPayments": ["Credits Universali", "Minerali Rari"],
+        "specialConditions": "Nessuna restrizione interdimensionale"
+      },
+      "ambiance": {
+        "themes": ["Cosmico", "Quantistico"],
+        "uniqueAspects": ["Atmosfera che cambia in base alla musica cosmica"]
+      }
+    }
+  ]
+}
+```

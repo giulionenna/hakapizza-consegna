@@ -1,0 +1,266 @@
+```json
+{
+  "restaurants": [
+    {
+      "name": "Ristorante Quantico",
+      "galaxy": "Non specificato",
+      "planet": "Pandora",
+      "chef": {
+        "name": "Alessandra Temporini",
+        "alias": "Non specificato",
+        "background": "Trasforma ogni cena in un viaggio tra dimensioni e sogni con ispirazione dalla sua amata nonna.",
+        "specialSkills": {
+          "Psionica": "Licenza IV",
+          "Temporale": "Licenza III",
+          "Gravitazionale": "Licenza II",
+          "Antimateria": "Licenza I",
+          "Quantistica": "Licenza 11",
+          "Luce": "Licenza I",
+          "LivelloTecnologico": "Secondo",
+          "Magnetica": "Licenza I",
+          "otherSkills": []
+        },
+        "culinaryAchievements": "Ispirazione di chef di interi sistemi solari, innovazioni tecniche",
+        "education": "Accademia culinaria interdimensionale",
+        "experience": ["Esperta in cucina quantistica e multidimensionale"]
+      },
+      "location": {
+        "environment": "Universo di meraviglie",
+        "dimension": "Interdimensionale"
+      },
+      "cuisine": {
+        "type": "Gastronomia interdimensionale",
+        "inspirations": ["Eredità familiare", "Esplorazione del gusto", "Arte culinaria"]
+      },
+      "established": "Non specificato",
+      "technologyLevel": "Secondo",
+      "menu": [
+        {
+          "dish_name": "Echi del Mare Eterno",
+          "signatureDish": true,
+          "description": "Creazione audace che racconta storie dimenticate e riunisce sapori di mondi lontani.",
+          "ingredients": [
+            {
+              "name": "Carne di Kraken",
+              "origin": "Oceani profondi di Pandora"
+            },
+            {
+              "name": "Sciroppo di Plasma Vitale",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Salsa Szechuan interdimensionale",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Cristalli di Memoria",
+              "origin": "Non specificato"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Cottura a Vapore Termocinetica Multipla",
+              "effect": "Cottura uniforme e essenza salmastra catturata"
+            },
+            {
+              "name": "Cottura a Vapore Ecodinamico Bilanciato",
+              "effect": "Conservazione dell’energia dell’universo"
+            },
+            {
+              "name": "Cryo-Tessitura Energetica Polarizzata",
+              "effect": "Conservazione della freschezza vibrante"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Infuso di Galassia",
+              "notes": "Note floreali e un tocco di spezie interstellari"
+            }
+          ],
+          "price": "82 Galatic credits",
+          "notes": "Invita a esplorare il magnifico intrico di tempo, spazio e sapore."
+        },
+        {
+          "dish_name": "Odissea Temporale",
+          "signatureDish": false,
+          "description": "Un piatto che intreccia sapori leggendari in una danza culinaria senza precedenti.",
+          "ingredients": [
+            {
+              "name": "Carne di Drago",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Carne di Mucca",
+              "origin": "Pianeta Terra"
+            },
+            {
+              "name": "Foglie di Mandragora",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Lacrime di Unicorno",
+              "origin": "Foresta incantata"
+            },
+            {
+              "name": "Essenza di Tachioni",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Teste di Idra",
+              "origin": "Non specificato"
+            },
+            {
+              "name": "Vero Ghiaccio",
+              "origin": "Regioni polari di Urano"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Reazioni d'Antimateria Diluite",
+              "effect": "Profondità di sapore e retrogusto cosmico"
+            },
+            {
+              "name": "Flusso di Particelle Isoarmoniche",
+              "effect": "Note rigenerative e texture eterea"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Nettare d'Eternità",
+              "notes": "Dolcezza vellutata con riflessi dorati"
+            }
+          ],
+          "price": "115 Galatic credits",
+          "notes": "Esplora l'infinita tavolozza di possibilità e la risonanza delle memorie."
+        },
+        {
+          "dish_name": "Rintocchi del Cosmo",
+          "signatureDish": false,
+          "description": "Piato che incarna l'essenza dell'universo attraverso gli ingredienti.",
+          "ingredients": [
+            {
+              "name": "Lattuga Namecciana",
+              "origin": "Pianeta Namec"
+            },
+            {
+              "name": "Radici di Gravità",
+              "origin": "Pianeta Xandar"
+            },
+            {
+              "name": "Shard di Materia Oscura",
+              "origin": "Costellazione di Orione"
+            },
+            {
+              "name": "Funghi dell’Etere",
+              "origin": "Nebula interstellare"
+            },
+            {
+              "name": "Essenza di Vuoto",
+              "origin": "Sconosciuto"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Impasto Gravitazionale Vorticoso",
+              "effect": "Distribuzione uniforme e consistenza sublime"
+            },
+            {
+              "name": "Cryo-Tessitura Energetica Polarizzata",
+              "effect": "Preservazione freschezza e delicatezza"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Vino Galattico",
+              "notes": "Note di albicocca con retrogusto speziato"
+            }
+          ],
+          "price": "97 Galatic credits",
+          "notes": "Risveglia l'anima e invita a esplorare nuove dimensioni culinarie."
+        },
+        {
+          "dish_name": "Armonia Cosmica alla Tavola d'Oro",
+          "signatureDish": false,
+          "description": "Proposta stellare per una danza attraverso galassie di ricordi e sapori.",
+          "ingredients": [
+            {
+              "name": "Muffa Lunare",
+              "origin": "Superficie lunare"
+            },
+            {
+              "name": "Polvere di Crononite",
+              "origin": "Galassia di Andromeda"
+            },
+            {
+              "name": "Baccacedro",
+              "origin": "Foresta sacra di Endor"
+            },
+            {
+              "name": "Pane degli Abissi",
+              "origin": "Profondità oceaniche"
+            },
+            {
+              "name": "Sale Temporale",
+              "origin": "Stelle Morenti"
+            }
+          ],
+          "techniques": [
+            {
+              "name": "Campi Magnetici Entropici",
+              "effect": "Emulsione rigenerante di sapore"
+            },
+            {
+              "name": "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+              "effect": "Esaltazione di sapori e consistenze"
+            },
+            {
+              "name": "Luminante",
+              "effect": "Esperienza multisensoriale cromatica"
+            }
+          ],
+          "pairings": [
+            {
+              "beverage": "Elisir dell'Eterno",
+              "notes": "Note delicate di vaniglia e muschio"
+            }
+          ],
+          "price": "145 Galatic credits",
+          "notes": "Trasportare il commensale attraverso passato, presente e futuro."
+        }
+      ],
+      "concept": "Cucina trascendentale con enfasi sul viaggio interdimensionale e l'esplorazione personale.",
+      "additionalFeatures": [
+        {
+          "feature": "Sala interdimensionale",
+          "description": "Ambiente dove le realtà si intrecciano."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Premio Galattico per l'Innovazione Culinaria",
+          "year": "3023"
+        }
+      ],
+      "affiliations": [
+        {
+          "order": "Ordine dei Chef Stellari",
+          "symbol": "Stella d'Oro"
+        }
+      ],
+      "reservationRequirements": {
+        "noticePeriod": "2 settimane",
+        "allowedPayments": ["Galatic credits", "Moneta interstellare"],
+        "specialConditions": "Solo su invito"
+      },
+      "ambiance": {
+        "themes": ["Interdimensionale", "Onirica", "Futuristica"],
+        "uniqueAspects": ["Sinfonia di luci", "Ologrammi dinamici"]
+      }
+    }
+  ]
+}
+```
